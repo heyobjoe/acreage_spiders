@@ -5,13 +5,6 @@ cnd...fully functional
 aac...1 start url functioning
 
 sw...crawl failing
-ccc...
-tvr...
-bp...
-
-
-bugs:
-
-size variable in pipeline
-
-sw wont crawl
+ccc...js required
+tvr...crawler required, js required?
+bp...js required
