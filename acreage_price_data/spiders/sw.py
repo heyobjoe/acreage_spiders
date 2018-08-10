@@ -7,37 +7,28 @@ from scrapy.loader.processors import MapCompose
 from scrapy.loader.processors import TakeFirst
 from acreage_price_data.items import ProductItem
 
+
 class SwSpider(CrawlSpider):
     name = 'sw_spider'
 
-    #allowed_domains = ['www.soctwellness.com']
-
-    # def start_requests(self):
-    #
-    #     urls = [
-    #
-    #         'https://www.soctwellness.com/product-category/flowers/',
-    #         'https://www.soctwellness.com/product-category/vape-oils/',
-    #         'https://www.soctwellness.com/product-category/concentrates/',
-    #         'https://www.soctwellness.com/product-category/medibles/',
-    #         'https://www.soctwellness.com/product-category/capsules/',
-    #         'https://www.soctwellness.com/product-category/oral-syringes-sprays-slips-tinctures/',
-    #         'https://www.soctwellness.com/product-category/oral-solution/',
-    #         'https://www.soctwellness.com/product-category/topicals/',
-    #
-    #     ]
-    #
-    #     for url in urls:
-    #         yield scrapy.Request(url=url, callback=self.parse)
-    #
-
     start_urls = [
+
         'https://www.soctwellness.com/product-category/flowers/',
+        'https://www.soctwellness.com/product-category/vape-oils/',
+        'https://www.soctwellness.com/product-category/concentrates/',
+        'https://www.soctwellness.com/product-category/medibles/',
+        'https://www.soctwellness.com/product-category/capsules/',
+        'https://www.soctwellness.com/product-category/oral-syringes-sprays-slips-tinctures/',
+        'https://www.soctwellness.com/product-category/oral-solution/',
+        'https://www.soctwellness.com/product-category/topicals/',
+
     ]
 
-    rules = (Rule(LinkExtractor(allow=(),
-                                restrict_xpaths=('//*[@id="content"]/nav/a[4]/span[1]',)),
-                                callback="parse_page", follow=True),)
+    rules = (
+        Rule(LinkExtractor(allow=(),
+                           restrict_xpaths=('//*[@id="content"]/nav/a[4]',)),
+             callback="parse_page", follow=True),
+    )
 
     def parse_page(self, response):
         print('*****************************Page hit**********************************************')

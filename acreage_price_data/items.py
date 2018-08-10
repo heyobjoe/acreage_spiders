@@ -8,9 +8,10 @@
 import scrapy
 from scrapy.loader.processors import MapCompose
 
-def convert_title(title):
-    if title:
-        return str(title)
+# def convert_title(title):
+#     if title:
+#         return title.strip()
+
 
 def convert_price(price):
     if price:

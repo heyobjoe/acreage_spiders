@@ -1,1108 +1,924 @@
-link,price,size,title
-http://www.caringnaturedispensary.com/product/360x-t631c57-1-0ml-oil-syringe-4911-cbd-2-94ge/,75,,"360X T631C57 1.0ml Oil Syringe – 4911 (CBD, 2.94GE)"
-http://www.caringnaturedispensary.com/product/albroven-t23-4771-sativa/,40,,Albroven T23 – 4771 (Sativa)
-http://www.caringnaturedispensary.com/product/aniva-t2-5-capsules-4469-sativa/,10,,"Aniva T2.5 Capsules – 4469 (Sativa, 0.11GE)"
-http://www.caringnaturedispensary.com/product/aniva-t30-pre-rolls-4930-sativa-2-1gm/,20,,"Aniva T30 2.1g Pre-Rolls – 4930 (Sativa, 2.1GM)"
-http://www.caringnaturedispensary.com/product/aniva-t5-capsules-4470-sativa-0-21ge/,20,,"Aniva T5 Capsules – 4470 (Sativa, 0.21GE)"
-http://www.caringnaturedispensary.com/product/bablicapure-t268c1-vape-cartridge-4952-indica-1-11ge/,35,,"BablicaPure T268C1 Vape Cartridge – 4952 (Indica, 1.11GE)"
-http://www.caringnaturedispensary.com/product/bablicapure-t883c3-refill-syringe-1-2ml-4953-indica-3-67ge/,90,,"BablicaPure T883C3 Refill Syringe 1.2ml – 4953 (Indica, 3.67GE)"
-http://www.caringnaturedispensary.com/product/bablica-t22-4920-indica-3-5gm/,30,,"Bablica T22 – 4920 (Indica, 3.5GM)"
-http://www.caringnaturedispensary.com/product/bianca-c10t7-cbd-7-0g-select-grind-5116-cbd-7-0gm/,50,,"Bianca C10%T7% CBD 7.0g Select Grind – 5116 (CBD, 7.0GM)"
-http://www.caringnaturedispensary.com/product/biscay-t84-hc-1-gram-4945-sativa-3-45ge/,65,,"Biscay T84 HC 1 gram – 4945 (Sativa, 3.45GE)"
-http://www.caringnaturedispensary.com/product/blue-oil-p-t675-h-curavape-5111-hybrid-2-7ge/,65,,"Blue Oil P-T675 H Curavape – 5111 (Hybrid, 2.7GE)"
-http://www.caringnaturedispensary.com/product/blue-t16-5158-hybrid/,30,,Blue T16% – 5158 (Hybrid)
-http://www.caringnaturedispensary.com/product/brownie-bites-4586-sativa/,35,,"Brownie Bites – 4586 (Indica, 0.51GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-11-capsules-5040-cbd-0-8ge/,45,,"Cannabidiol D 1:1 Capsules – 5040 (CBD, 0.8GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-11-honey-5038-cbd-0-80ge/,55,,"Cannabidiol D 1:1 Honey – 5038 (CBD, 0.80GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-15-capsules-cbd-0-8ge/,45,,"Cannabidiol D 1:5 Capsules – (CBD, 0.8GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-15-pure-vpen-436-5012-cbd-1-74ge/,65,,"Cannabidiol D 1:5 PURE VPEN 436 – 5012 (CBD, 1.74GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-15-t3-4c17-8-slips-5039-cbd-0-88ge/,55,,"Cannabidiol D 1:5  T3.4C17.8 Slips – 5039 (CBD, 0.88GE)"
-http://www.caringnaturedispensary.com/product/cannabidiol-d-cbd-oral-solution-5036-cbd-1-20ge/,40,,"Cannabidiol D CBD Oral Solution 300mg – 5036 (CBD, 1.20GE)"
-http://www.caringnaturedispensary.com/product/cbd-11-t19c25-capsules-4497-cbd-1-91ge/,50,,"CBD 1:1 T19C25 Capsules – 4497 (CBD, 1.91GE)"
-http://www.caringnaturedispensary.com/product/cbd-251-t1c19-4950-cbd/,30,,CBD 25:1 T1C19 – 4950 (CBD)
-http://www.caringnaturedispensary.com/product/cbd-251-t1c21-pre-rolls-3-pk-2-1gm-4459/,20,,CBD 25:1 T1C21 Pre-Rolls 3 Pk (2.1gm) – 4459
-http://www.caringnaturedispensary.com/product/cbd-271-t1c25-capsules-4489-cbd-1-12ge/,40,,"CBD 27:1 T1C25 Capsules – 4489 (CBD, 1.12GE)"
-http://www.caringnaturedispensary.com/product/cbd-271-t2c50-capsules-4490-cbd-2-19ge/,65,,"CBD 27:1 T2C50 Capsules – 4490 (CBD, 2.19GE)"
-http://www.caringnaturedispensary.com/product/chocolate-peanut-butter-bites-4849-hybrid-0-50ge/,35,,"Chocolate Peanut Butter Bites – 4849 (Hybrid, 0.50GE)"
-http://www.caringnaturedispensary.com/product/cinnamon-sugar-cookie-3-pk-3417-sativa/,35,,"Cinnamon Sugar Cookie 3 Pk – 4555 (Sativa, 0.46GE)"
-http://www.caringnaturedispensary.com/product/citron-oil-m-t570-curavape-3ml-5112-sativa-2-28ge/,60,,"Citron Oil M T570 Curavape 3ml – 5112 (Sativa, 2.28GE)"
-http://www.caringnaturedispensary.com/product/citron-oil-n-t150-slim-4887-sativa-0-60ge/,28,,"Citron Oil N T150 Slim – 4887 (Sativa, 0.60GE)"
-http://www.caringnaturedispensary.com/product/citron-t26-5143-sativa/,35,,Citron T26% – 5143 (Sativa)
-http://www.caringnaturedispensary.com/product/corlein-t250-vape-4105-sativa/,40,,"Corlein T250 Vape – 4105 (Sativa, 0.99GE)"
-http://www.caringnaturedispensary.com/product/cps-c100-tablets-10-x-100-mg-1969/,70,,"CPS C100 Tablets 5 x 100 mg – 4097 (CBD, 1.09 GE)"
-http://www.caringnaturedispensary.com/product/cps-c10-tablets-4718-cbd-0-4ge/,18,,"CPS C10 Tablets – 4718 (CBD, 0.4GE)"
-http://www.caringnaturedispensary.com/product/cps-t100c100-lotion-2oz-4769-cbdhybrid-0-38ge/,35,,"CPS T100C100 Lotion 2oz. – 4769 (CBD/Hybrid, 0.38GE)"
-http://www.caringnaturedispensary.com/product/cps-t200-nano-tincture-4762-cbd/,35,,"CPS T200 Nano Tincture – 4762 (CBD,"
-http://www.caringnaturedispensary.com/product/dutch-chocolate-chip-cookies-4847-hybrid/,20,,"Dutch Chocolate Chip Cookies – 4847 (Hybrid, 0.25GE)"
-http://www.caringnaturedispensary.com/product/elioraca-t24-4905-hybrid-3-5ge/,30,,"Elioraca T24 – 4905 (Hybrid, 3.5GE)"
-http://www.caringnaturedispensary.com/product/elioraca-t24-pre-rolls-4906-hybrid-2-1ge/,20,,"Elioraca T24 Pre-Rolls – 4906 (Hybrid, 2.1GE)"
-http://www.caringnaturedispensary.com/product/fioraden-d-t250-vape-4737-indica-0-99ge/,40,,"Fioraden D T250 Vape – 4737 (Indica, 0.99GE)"
-http://www.caringnaturedispensary.com/product/fioraden-d-t308-dc-vape-cartridge-4725-indica-1-23ge/,55,,"Fioraden D T308 DC Vape Cartridge – 4725 (Indica, 1.23GE)"
-http://www.caringnaturedispensary.com/product/fioraden-t352-dc-pure-vape-4757-indica-1-41ge/,60,,"Fioraden A T352 DC Pure Vape – 4757 (Indica, 1.41GE)"
-http://www.caringnaturedispensary.com/product/fioralex-t28-4720-hybrid/,40,,Fioralex T28 – 4720 (Hybrid)
-http://www.caringnaturedispensary.com/product/fioralex-t327-dc-pure-vape-4756-hybrid-1-31ge/,55,,"Fioralex T327 DC Pure Vape – 4756 (Hybrid, 1.31GE)"
-http://www.caringnaturedispensary.com/product/fioralex-t81-cr-4746-hybrid/,40,,"Fioralex T81 CR – 4746 (Hybrid, 1.62GE)"
-http://www.caringnaturedispensary.com/product/flavica-t25-4480-indica-3-5ge/,35,,"Flavica T25 – 4480 (Indica, 3.5GE)"
-http://www.caringnaturedispensary.com/product/gwynivapure-t998c12-1-2ml-refill-syringe-4925-hybrid-4-21ge/,100,,"GwynivaPure T998C12 1.2ml Refill Syringe – 4925 (Hybrid, 4.21GE)"
-http://www.caringnaturedispensary.com/product/hybridol-cr-85-76-5076-hybrid-1-71ge/,35,,"Hybridol A CR 85.76 – 5076 (Hybrid, 1.71GE)"
-http://www.caringnaturedispensary.com/product/hybridol-f-cr-86-17-4662-hybrid-1-72ge/,35,,"Hybridol F CR 86.17 – 4662 (Hybrid, 1.72GE)"
-http://www.caringnaturedispensary.com/product/hybridol-q-sh-83-86-4641-hybrid-1-67ge/,35,,"Hybridol Q SH 83.86 – 4641 (Hybrid, 1.67GE)"
-http://www.caringnaturedispensary.com/product/hybridol-t-sh-88-39-5061-hybrid-1-76ge/,35,,"Hybridol T SH 88.39 – 5061 (Hybrid, 1.76GE)"
-http://www.caringnaturedispensary.com/product/iced-sugar-cookies-4587-sativa/,35,,"Iced Sugar Cookies – 4587 (Sativa, 0.48GE)"
-http://www.caringnaturedispensary.com/product/indicol-f-cr-74-81-4607-indica/,35,,"Indicol F CR 74.81 – 4607 (Indica,"
-http://www.caringnaturedispensary.com/product/indicol-p-cr-85-25-5059-indica-1-70ge/,35,,"Indicol P CR 85.25 – 5059 (Indica, 1.70GE)"
-http://www.caringnaturedispensary.com/product/indicol-w-rs-84-84-5086-indica-1-69ge/,45,,"Indicol W RS 84.84 – 5086 (Indica, 1.69GE)"
-http://www.caringnaturedispensary.com/product/indicore-b-honey-200mg-1787/,55,,Indicore OB Honey 200mg  – 4626 (Indica – 0.8GE)
-http://www.caringnaturedispensary.com/product/indicore-ob-brownie-20mg-2263/,10,,Indicore OB Brownie  20mg- 4054 (Indica – 0.08GE)
-http://www.caringnaturedispensary.com/product/indicore-ob-chocolate-chip-cookie-v1-2265/,10,,Indicore OB Chocolate Chip Cookie  20mg – 4632 (Indica – 0.08GE)
-http://www.caringnaturedispensary.com/product/indicore-ob-malted-chocolate-cookie-100mg-3144-indica/,35,,"Indicore OB Malted Chocolate Cookie 100mg – 4047 (Indica, 0.4GE)"
-http://www.caringnaturedispensary.com/product/indicore-ob-smores-granola-bites-v1-3-x-20mg-3119/,25,,Indicore OB S’mores Granola Bites V1 3 x 20mg – 4045 (Indica –  0.24GE)
-http://www.caringnaturedispensary.com/product/obalex-t82-cr-12gm-4777-hybrid-1-64ge/,40,,"Obalex T82 CR 1/2gm – 4777 (Hybrid, 1.64GE)"
-http://www.caringnaturedispensary.com/product/orange-blossom-cookies-4294-hybrid/,35,,"Orange Blossom Cookies – 4294 (Hybrid, 0.49GE)"
-http://www.caringnaturedispensary.com/product/sativarin-e-cr-82-30-4639-sativa-1-64ge/,35,,"Sativarin E CR 82.30 – 4639 (Sativa, 1.64GE)"
-http://www.caringnaturedispensary.com/product/sativarin-rs-82-66-4618-sativa-1-65ge/,45,,"Sativarin A RS 82.66 – 4618 (Sativa, 1.65GE)"
-http://www.caringnaturedispensary.com/product/transdermal-cream-t230c33-50ml-4455-hybrid/,45,,"Transdermal Cream T230C33 50ml – 4455 (Hybrid, 1.15GE)"
-http://www.caringnaturedispensary.com/product/transdermal-cream-t250c11-50ml-4927-hybrid-1-11ge/,45,,"Transdermal Cream T250C11 50ml – 4927 (Hybrid, 1.11GE)"
-http://www.thehealingcorner.com/product/360xlp-t502c23-4502-oil-syringe-1-0ml-theraplant/,55,1 ml Oil Syringe,360XLP T502C23 4502 Oil Syringe 1.0ml (Theraplant)
-http://www.thehealingcorner.com/product/albroven-t23-4771-flower-3-5g-cps/,38,3.5 Grams,Albroven T23 4771 Flower 3.5g (CPS)
-http://www.thehealingcorner.com/product/aniva-t10-4471-pills-10-theraplant/,20,10 Pills,Aniva T10 4471 Pills-10 (Theraplant)
-http://www.thehealingcorner.com/product/aniva-t2-5-4469-pills-10-theraplant/,10,10 Pills,Aniva T2.5 4469 Pills-10 (Theraplant)
-http://www.thehealingcorner.com/product/aniva-t30-4930-pre-roll-3pk-2-1g-theraplant/,20,Pre-rolls 3pk 2.1g,Aniva T30 4930 Pre-roll 3pk 2.1g (Theraplant)
-http://www.thehealingcorner.com/product/bablicapure-t268c1-4952-oil-cartridge-0-3ml-theraplant/,32,Oil Cartridge 0.3ml,BablicaPure T268C1 4952 Oil Cartridge 0.3ml (Theraplant)
-http://www.thehealingcorner.com/product/bablicapure-t883c3-4953-oil-syringe-1-20ml-theraplant/,88,1.20ml Oil Syringe,BablicaPure T883C3 4953 Oil Syringe 1.20ml (Theraplant)
-http://www.thehealingcorner.com/product/bablica-t22-4920-3-5g-theraplant/,28,3.5 Grams,Bablica T22 4920 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/bianca-c10-t7-cbd-5116-select-grind-7-0g-curaleaf/,48,7.0 Grams Select Grind,Bianca C10% T7% CBD 5116 Select Grind 7.0g (Curaleaf)
-http://www.thehealingcorner.com/product/bianca-c30-t31-cbd-4854-0-50g-curaleaf/,34,0.5 ml,Bianca C30% T31% CBD 4854 0.50g (Curaleaf)
-http://www.thehealingcorner.com/product/bianca-oil-g-c94-t155-cbd-cartridge-4879-curaleaf/,35,1 Vape Cartridge,Bianca Oil G C94 T155 CBD Cartridge 4879 (Curaleaf)
-http://www.thehealingcorner.com/product/biscay-t84-4945-concentrate-1-0g-theraplant/,66,1.0 Grams,Biscay T84 4945 Concentrate 1.0g (Theraplant)
-http://www.thehealingcorner.com/product/black-t19-i-4894-single-cone-1-0g-curaleaf/,11,1.0 gram Single Cone,Black T19% I 4894 Single Cone 1.0G (Curaleaf)
-http://www.thehealingcorner.com/product/black-t20-i-5140-select-grind-3-5gcuraleaf/,25,3.5 Grams Select Grind,Black T20% I 5140 Select Grind 3.5g(Curaleaf)
-http://www.thehealingcorner.com/product/blue-oil-n-t100-h-slim-4809-curaleaf/,18,1 Disposable Vape,Blue Oil N T100 H Slim 4809 (Curaleaf)
-http://www.thehealingcorner.com/product/blue-oil-p-t675-h-curavape-5111-vape-refill-3-0ml-curaleaf/,60,3.0 ml,Blue Oil P T675 H Curavape 5111 Vape Refill 3.0mL (Curaleaf)
-http://www.thehealingcorner.com/product/blue-t16-h-5157-2g-curaleaf/,19,2 Grams,Blue T16% H 5157 2g (Curaleaf)
-http://www.thehealingcorner.com/product/blue-t16-h-5158-3-5g-curaleaf/,33,3.5 Grams,Blue T16% H 5158 3.5g (Curaleaf)
-http://www.thehealingcorner.com/product/blue-t64-h-4855-0-50g-curaleaf/,34,0.5 ml,Blue T64% H 4855 0.50g (Curaleaf)
-http://www.thehealingcorner.com/product/brownie-bites-4586-curaleaf/,34,5 Pack,Brownie Bites 4586 (Curaleaf)
-http://www.thehealingcorner.com/product/caleten-t250-4106-vape-cps/,40,Oil Cartridge 0.5ml,Caleten T250 4106 Vape (CPS)
-http://www.thehealingcorner.com/product/caleten-t342-4190-dc-pure-vape-cps/,60,Oil Cartridge 0.5ml,Caleten T342 4190 DC PURE Vape (CPS)
-http://www.thehealingcorner.com/product/cannabidiol-d-11-capsules-ndc-5040-agl/,42,10 Capsules,Cannabidiol D 1:1 Capsules NDC: 5040 (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-11-coconut-oil-ndc-5042-3-13ozagl/,55,3.13 oz,Cannabidiol D 1:1 Coconut Oil NDC: 5042 3.13oz(AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-11-honey-5038-5-82oz-agl/,55,5.82 oz Jar,Cannabidiol D 1:1 Honey 5038 5.82oz (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-11-sublingual-spray-ndc-5068-agl/,45,0.08 oz,Cannabidiol D 1:1 Sublingual Spray NDC: 5068 (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-15-capsules-ndc-5041-agl/,42,10 Capsules,Cannabidiol D 1:5 Capsules NDC: 5041 (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-15-pure-vpen436-ndc-5012/,65,1 Vape Cartridge,Cannabidiol D 1:5 PURE VPEN436 NDC: 5012
-http://www.thehealingcorner.com/product/cannabidiol-d-15-slips-t3-4-c17-8-ndc-5039-agl/,55,10 Slips,Cannabidiol D 1:5 Slips T3.4 C17.8 NDC: 5039 (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-cbd-oral-solution-ndc-5036-9-56-ml-agl/,38,9.56 ml/Container,Cannabidiol D CBD Oral Solution NDC: 5036 9.56 ml (AGL)
-http://www.thehealingcorner.com/product/cannabidiol-d-pure-oil-117-t40-c686-ndc-4671-1-0-ml-agl/,94,1.0 ml,Cannabidiol D Pure Oil 1:17 T40 C686 NDC: 4671 1.0 ml (AGL)
-http://www.thehealingcorner.com/product/cbd251-t1c21-4459-pre-rolls-3pk-2-1g-theraplant/,20,Pre-rolls 3pk 2.1g,CBD25:1 T1C21 4459 Pre-rolls 3pk 2.1g (Theraplant)
-http://www.thehealingcorner.com/product/cbd271-t1c25-4489-pills-10-theraplant/,39,10 Capsules,CBD27:1 T1C25 4489 Pills-10 (Theraplant)
-http://www.thehealingcorner.com/product/chocolate-peanut-butter-bites-4849-curaleaf/,34,5 Pack,Chocolate Peanut Butter Bites 4849 (Curaleaf)
-http://www.thehealingcorner.com/product/cinnamon-sugar-cookies-4555-3-packcuraleaf/,32,3 Pack,Cinnamon Sugar Cookies 4555 3 Pack (Curaleaf)
-http://www.thehealingcorner.com/product/citron-oil-m-t570-s-curavape-5112-vape-refill-3-0-ml-curaleaf/,60,3.0 ml,Citron Oil M T570 S Curavape 5112 Vape Refill 3.0 ml (Curaleaf)
-http://www.thehealingcorner.com/product/citron-oil-n-t150-s-slim-4887-curaleaf/,25,1 Disposable Vape,Citron Oil N T150 S Slim 4887 (Curaleaf)
-http://www.thehealingcorner.com/product/citron-t26-s-5143-3-5g-curaleaf/,35,3.5 Grams,Citron T26% S 5143 3.5g (Curaleaf)
-http://www.thehealingcorner.com/product/citron-t75-s-5142-curaleaf/,42,0.50 Grams,Citron T75% S 5142 (Curaleaf)
-http://www.thehealingcorner.com/product/corlein-t250-4105-vape-cps/,40,Oil Cartridge,Corlein T250 4105 Vape (CPS)
-http://www.thehealingcorner.com/product/cps-c100-tab-4097-5-tabletscps/,65,5 Tablets,CPS C100 Tab 4097 5 Tablets(CPS)
-http://www.thehealingcorner.com/product/cps-c10-effervescent-tablet-4765-10-tablets-cps/,15,10 Tablets,CPS C10 Effervescent Tablet 4765 10 Tablets (CPS)
-http://www.thehealingcorner.com/product/cps-c10-tab-4748-10-tablets-cps/,15,10 Tablets,CPS C10 Tab 4748 10 Tablets (CPS)
-http://www.thehealingcorner.com/product/cps-c200-4761-nano-tincture-10ml-cps/,25,10 ml,CPS C200 4761 Nano-Tincture 10ml (CPS)
-http://www.thehealingcorner.com/product/cps-c40-tab-4719-5-tablets-cps/,30,5 Tablets,CPS C40 Tab 4719 5 Tablets (CPS)
-http://www.thehealingcorner.com/product/cps-c50-extended-release-tab-4151cps/,42,5 Tablets,CPS C50 Extended Release Tab 4151(CPS)
-http://www.thehealingcorner.com/product/cps-oil-c250-4197-syringe-1ml-cps/,30,1 ml Oral Syringe,CPS Oil C250 4197 Syringe 1ml (CPS)
-http://www.thehealingcorner.com/product/cps-oil-t250-c250-4098-syringe-cps/,58,1 ml Syringe,CPS Oil T250-C250 4098 Syringe 1ml (CPS)
-http://www.thehealingcorner.com/product/cps-oil-t860-4181-syringe-cps/,105,1.0ml Syringe,CPS Oil T860 4181 Syringe (CPS)
-http://www.thehealingcorner.com/product/cps-oral-cbd-spray-c251-4742-5ml-cps/,42,5ml,CPS Oral CBD Spray C251 4742 5ml (CPS)
-http://www.thehealingcorner.com/product/cps-oral-spray-t150-c150-4734-5ml-cps/,40,5 ml Spray,CPS Oral Spray T150-C150 4734 5ml (CPS)
-http://www.thehealingcorner.com/product/cps-oral-thca-spray-t353-4171-cps/,36,5 ml,CPS Oral THCA Spray T353 4171 (CPS)
-http://www.thehealingcorner.com/product/cps-oral-thc-spray-t255-4724-cps/,30,5 ml,CPS Oral THC Spray T255 4724 5ml (CPS)
-http://www.thehealingcorner.com/product/cps-t100c100-4763-nano-tincture-10-ml-cps/,27,10 ml,CPS T100C100 4763 Nano-Tincture 10 ml (CPS)
-http://www.thehealingcorner.com/product/cps-t100c100-4768-lotion-cps/,30,2oz,CPS T100C100 4768 Lotion (CPS)
-http://www.thehealingcorner.com/product/cps-t10-tab-4747-10-tabletscps/,24,10 Tablets,CPS T10 Tab 4747 10 Tablets(CPS)
-http://www.thehealingcorner.com/product/cps-t200-4762-nano-tincture-10ml-cps/,30,10 ml,CPS T200 4762 Nano-Tincture 10ml (CPS)
-http://www.thehealingcorner.com/product/cps-t40-tab-4141-cps/,34,5 Tablets,CPS T40 Tab 4141 5 Tablets (CPS)
-http://www.thehealingcorner.com/product/cps-t50-extended-release-tab-4749-cps/,52,5 Tablets,CPS T50 Extended Release Tab 4749 (CPS)
-http://www.thehealingcorner.com/product/cps-thca200-tincture-4745-10ml-cps/,30,10 ml,CPS THCA200 Tincture 4745 10ml (CPS)
-http://www.thehealingcorner.com/product/cps-thc-lotion-t150-4138-cps/,30,2oz  ,CPS THC Lotion T150 4138 (CPS)
-http://www.thehealingcorner.com/product/dutch-chocolate-cookies-2149-curaleaf/,19,3 Pack,Dutch Chocolate Chip Cookies 4847 (Curaleaf)
-http://www.thehealingcorner.com/product/elioraca-t24-4905-3-5g-theraplant/,26,3.5 Grams,Elioraca T24 4905 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/elioraca-t24-4906-pre-rolls-3pk-2-1gtheraplant/,20,Pre-Rolls 3pk 2.1g,Elioraca T24 4906 Pre-Rolls 3pk 2.1g(Theraplant)
-http://www.thehealingcorner.com/product/emerald-t21-s-4811-3-5g-curaleaf/,32,3.5 grams,Emerald T21% S 4811 3.5G (Curaleaf)
-http://www.thehealingcorner.com/product/emerald-t21-s-4829-cone-3-pack-curaleaf/,20,Cone 3 Pack 1.5g,Emerald T21% S 4829 Cone 3 Pack (Curaleaf)
-http://www.thehealingcorner.com/product/fioraden-d-t250-4737-vape-cps/,40,Oil Cartridge,Fioraden D T250 4737 Vape (CPS)
-http://www.thehealingcorner.com/product/fioraleve-t21c59-4170-tincture-15ml-cps/,70,15 ml Tincture,Fioraleve A T21C59 4170 Tincture 15ml (CPS)
-http://www.thehealingcorner.com/product/fioralex-flower-t28-4720-3-5g-cps/,40,3.5 Grams,Fioralex Flower T28 4720 3.5g (CPS)
-http://www.thehealingcorner.com/product/fioralex-t327-4756-dc-pure-vape-cps/,50,Oil Cartridge 0.5ml,Fioralex T327 4756 DC Pure Vape (CPS)
-http://www.thehealingcorner.com/product/fioralex-t81-4746-cr-0-5g-cps/,38,0.5 Grams,Fioralex T81 4746 CR 0.5g (CPS)
-http://www.thehealingcorner.com/product/flavica-t50c1-4910-pills-10-theraplant/,50,10 Capsules,Flavica T50C1 4910 Pills-10 (Theraplant)
-http://www.thehealingcorner.com/product/garnet-t23-h-5125-3-5gcuraleaf/,33,3.5 Grams,Garnet T23% H 5125 3.5g(Curaleaf)
-http://www.thehealingcorner.com/product/garnet-t23-h-5126-3-5g-select-grind-curaleaf/,25,3.5 Grams of Select Grind,Garnet T23% H 5126 3.5g Select Grind (Curaleaf)
-http://www.thehealingcorner.com/product/gwynivapure-t998c12-4925-oil-syringe-1-20ml-theraplant/,100,1.20ml Oil Syringe,GwynivaPure T998C12 4925 OIL SYRINGE 1.20ML (THERAPLANT)
-http://www.thehealingcorner.com/product/gwyniva-t25-4918-3-5g-theraplant/,32,3.5 Grams,Gwyniva T25 4918 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/gwyniva-t25-4919-pre-rolls-3pk-2-1g-theraplant/,20,Pre-rolls 3pk 2.1g,Gwyniva T25 4919 Pre-rolls 3pk 2.1g (Theraplant)
-http://www.thehealingcorner.com/product/haracept-t24-4931-3-5g-theraplant/,26,3.5 Grams,Haracept T24 4931 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/hybridol-a-23-78-ndc-4667-3-5gagl/,40,3.5 Grams,Hybridol A 23.78 NDC: 4667 3.5g(AGL)
-http://www.thehealingcorner.com/product/hybridol-a-cr-85-75-ndc-5076-0-5g-agl/,35,0.5 Grams,Hybridol A CR 85.75 NDC: 5076 0.5g (AGL)
-http://www.thehealingcorner.com/product/hybridol-f-pure-vpen-421-ndc-5082-agl/,65,Vape Cartridge,Hybridol F Pure VPen 421 NDC: 5082 (AGL)
-http://www.thehealingcorner.com/product/hybridol-i-oil-t292-ndc-5033-0-5ml-agl/,42,0.5 ml,Hybridol I Oil T292 NDC 5033 0.5ml (AGL)
-http://www.thehealingcorner.com/product/hybridol-i-oil-t292-ndc-5033-0-5ml-agl/,42,0.5 ml,Hybridol I Oil T292 NDC 5033 0.5ml (AGL)
-http://www.thehealingcorner.com/product/hybridol-i-pure-vpen-411-ndc-5019-agl/,65,Vape Cartridge,Hybridol I Pure VPen 411 NDC: 5019 (AGL)
-http://www.thehealingcorner.com/product/hybridol-i-vpen-330-ndc-5045-agl/,50,1 Vape Cartridge,Hybridol I VPen 330 NDC: 5045 (AGL)
-http://www.thehealingcorner.com/product/hybridol-j-sh-87-49-ndc4087-0-5g-agl/,35,0.5 Gram,Hybridol J SH 87.49 NDC:4087 0.5g (AGL)
-http://www.thehealingcorner.com/product/hybridol-ob-lavender-lotion-ndc-3774-agl/,22,1.42 oz,Hybridol OB Lavender Lotion NDC: 3774 (AGL)
-http://www.thehealingcorner.com/product/hybridol-ob-oil-t283-ndc-4365-0-5ml-agl/,37,0.5ml Vape Refill Syringe,Hybridol OB Oil T283 NDC: 4365 0.5ml (AGL)
-http://www.thehealingcorner.com/product/hybridol-q-sh-83-86-ndc-4641-agl/,35,0.5 Grams,Hybridol Q SH 83.86 NDC: 4641 (AGL)
-http://www.thehealingcorner.com/product/hybridol-t-rs-80-13-ndc-5030-0-5g-agl/,44,0.5 Gram,Hybridol T RS 80.13 NDC: 5030 0.5g (AGL)
-http://www.thehealingcorner.com/product/hybridol-t-rs-80-13-ndc-5043-1-0g-agl/,80,1.0 Gram,Hybridol T RS 80.13 NDC: 5043 1.0g (AGL)
-http://www.thehealingcorner.com/product/hybridol-t-sh-88-39-ndc-5061-0-5g-agl/,65,1.0 Gram,Hybridol T SH 88.39 NDC: 5062 1.0g (AGL)
-http://www.thehealingcorner.com/product/hybridol-u-pure-vpen-457-ndc-5053-agl/,65,Vape Cartridge,Hybridol U Pure VPen 457 NDC: 5053 (AGL)
-http://www.thehealingcorner.com/product/hybridol-w-rs-80-58-ndc-4659-0-5g-agl/,44,0.5 Grams,Hybridol W RS 80.58 NDC: 4659 0.5g (AGL)
-http://www.thehealingcorner.com/product/hybridol-y-pure-vpen-411-ndc-5067agl/,65,Vape Cartridge,Hybridol Y Pure VPen 411 NDC: 5067(AGL)
-http://www.thehealingcorner.com/product/hybridol-z-23-02-ndc-5081-3-5g-agl/,40,3.5 grams,Hybridol Z 23.02 NDC: 5081 3.5G (AGL)
-http://www.thehealingcorner.com/product/icariex-fllower-sc-t25-4729-3-5g-cps/,30,3.5 grams Second Cut,Icarilex Flower SC T25 4729 3.5G (CPS)
-http://www.thehealingcorner.com/product/icarilex-flower-t25-4714-3-5g-cps/,38,3.5 grams,Icarilex Flower T25 4714 3.5G (CPS)
-http://www.thehealingcorner.com/product/icarilex-t330-4153-dc-pure-vape-cps/,50,Oil Cartridge 0.5ml,Icarilex T330 4153 DC Pure Vape (CPS)
-http://www.thehealingcorner.com/product/iced-sugar-cookies-4587-3-pack-curaleaf/,30,3 Pack,Iced Sugar Cookies 4587 3 pack (Curaleaf)
-http://www.thehealingcorner.com/product/indicol-a-pure-vpen-433-ndc-5057-agl/,65,Vape Cartridge,Indicol A Pure VPen 433 NDC: 5057 (AGL)
-http://www.thehealingcorner.com/product/indicol-a-vpen-330-ndc-5074-agl/,50,1 Vape Cartridge,Indicol A VPen 330 NDC: 5074 (AGL)
-http://www.thehealingcorner.com/product/indicol-c-pure-vpen-466-ndc-5055-agl/,65,1 Vape Cartridge,Indicol C Pure VPen 466 NDC: 5055 (AGL)
-http://www.thehealingcorner.com/product/indicol-c-vpen-330-ndc-5073agl/,50,1 Vape Cartridge,Indicol C VPen 330 NDC: 5073(AGL)
-http://www.thehealingcorner.com/product/indicol-de-25-86-ndc-5084-3-5g-agl/,45,3.5 grams,Indicol DE 25.86 NDC: 5084 3.5G (AGL)
-http://www.thehealingcorner.com/product/indicol-f-sh-78-21-ndc-4606-0-5g-agl/,35,0.5 Grams,Indicol F SH 78.21 NDC: 4606 0.5g (AGL)
-http://www.thehealingcorner.com/product/indicol-k-pre-rolls-18-65-ndc-5047-4-units-1-80g-agl/,23,1.80 grams 4 Pre Rolls,Indicol K Pre Rolls 18.65 NDC: 5047 4 Units 1.80g (AGL)
-http://www.thehealingcorner.com/product/indicol-ob-capsules-10-x-20mg-ndc-4630-agl/,45,10 Capsules,Indicol OB Capsules- 10 x 20mg NDC: 4630 (AGL)
-http://www.thehealingcorner.com/product/indicol-ob-capsules-10-x-40mg-ndc-4404-agl/,80,10 Capsules,Indicol OB Capsules- 10 x 40mg NDC: 4404 (AGL)
-http://www.thehealingcorner.com/product/indicol-ob-tablets-ndc-4652-10x-20mg-agl/,45,10 Tablets,Indicol OB Tablets NDC: 4652 10x 20mg (AGL)
-http://www.thehealingcorner.com/product/indicol-ob-water-soluble-100mg-ndc-4690/,22,11.81 ml,Indicol OB Water Soluble – 100mg NDC: 4690
-http://www.thehealingcorner.com/product/indicol-p-cr-85-25-ndc-5059-0-5g-agl/,35,0.5 gram,Indicol P CR 85.25 NDC: 5059 0.5g (AGL)
-http://www.thehealingcorner.com/product/indicol-p-cr-85-25-ndc-5060-1-0g-agl/,65,1.0 gram,Indicol P CR 85.25 NDC: 5060 1.0g (AGL)
-http://www.thehealingcorner.com/product/indicol-p-pure-oil-t703-ndc-5032-1-0-mlagl/,94,1.0 ml,Indicol P Pure Oil T703 NDC: 5032 1.0 ml (AGL)
-http://www.thehealingcorner.com/product/indicol-p-pure-vpen-407-ndc-5031-agl/,65,1 Vape Cartridge,Indicol P Pure VPen 407 NDC: 5031 (AGL)
-http://www.thehealingcorner.com/product/indicol-p-vpen-330-ndc-5070-agl/,50,1 Vape Cartridge,Indicol P VPen 330 NDC: 5070 (AGL)
-http://www.thehealingcorner.com/product/indicol-w-rs-84-84-ndc-5086-0-5g-agl/,44,0.5 Gram,Indicol W RS 84.84 NDC: 5086 0.5g (AGL)
-http://www.thehealingcorner.com/product/indicol-x-21-98-ndc-5022-3-5g-agl/,38,3.5 Grams,Indicol X 21.98 NDC: 5022 3.5g (AGL)
-http://www.thehealingcorner.com/product/indicol-z-pure-vpen-413-ndc-5054-agl/,65,1 Vape Cartridge,Indicol Z Pure VPen 413 NDC: 5054 (AGL)
-http://www.thehealingcorner.com/product/indicol-z-vpen-330-ndc-5072-agl/,50,1 Vape Cartridge,Indicol Z VPen 330 NDC: 5072 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-brownie-ndc-4634-agl/,10,1 Brownie,Indicore OB Brownie NDC: 4634 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-brownies-3x20mg-ndc-4635-agl/,25,3 Pack,Indicore OB Brownies 3x20mg NDC: 4635 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-chocolate-chip-cookie-ndc-4632/,10,1 Cookie,Indicore OB Chocolate Chip Cookie NDC: 4632
-http://www.thehealingcorner.com/product/indicore-ob-chocolate-chip-cookies-3-x-20mg-ndc-4633-agl/,25,3 Pack,Indicore OB Chocolate Chip Cookies 3 x 20mg NDC: 4633 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-granola-ndc-5013-60mg-3-5oz-agl/,25,3.50 oz,Indicore OB Granola NDC: 5013 60mg 3.5oz (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-honey-200mg-ndc-4626-agl/,55,4oz Jar,Indicore OB Honey 200mg NDC: 4626 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-malted-chocolate-cookie-100mg-ndc-4047-agl/,34,Single Cookie,Indicore OB Malted Chocolate Cookie 100mg NDC: 4047 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-slips-ndc-4611-10-units-agl/,60,10 Slips,Indicore OB Slips NDC: 4611 10 Units (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-smores-granola-bites-3x-20mg-v1-agl/,25,3 Pack,Indicore OB S’mores Granola Bites 3x20mg NDC: 4045 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-sublingual-spray-ndc-5027-agl/,45,2.71 ml/Vial,Indicore OB Sublingual Spray NDC: 5027 (AGL)
-http://www.thehealingcorner.com/product/indicore-ob-white-chocolate-hazelnut-cookie-ndc-4053/,18,1 Cookie,Indicore OB White Chocolate Hazelnut Cookie NDC: 4053
-http://www.thehealingcorner.com/product/indigo-oil-g-t100-h-slim-4844-curaleaf/,18,1 Disposable Vape,Indigo Oil G T100 H Slim 4844 (Curaleaf)
-http://www.thehealingcorner.com/product/jade-t20-h-4834-select-grind-3-5gcuraleaf/,25,3.5 grams Select Grind,Jade T20% H 4834 Select Grind 3.5g(Curaleaf)
-http://www.thehealingcorner.com/product/jade-t77-4846-0-50g-curaleaf/,42,0.5ml,Jade T77% 4846 0.50g (Curaleaf)
-http://www.thehealingcorner.com/product/jenvapure-t1034c3-4499-oil-syringe-1-20ml-theraplant/,100,1.20ml Oil Syringe,JenvaPure T1034C3 4499 Oil Syringe 1.20ml (Theraplant)
-http://www.thehealingcorner.com/product/jenvapure-t314c1-4498-oil-cartridge-0-3ml-theraplant/,37,Oil Cartridge 0.3ml,JenvaPure T314C1 4498 Oil Cartridge 0.3ml (Theraplant)
-http://www.thehealingcorner.com/product/lexikan-t250-4773-vape-cps/,40,Oil Cartridge,Lexikan T250 4773 Vape (CPS)
-http://www.thehealingcorner.com/product/lexikan-t294-4754-dc-pure-vape-cps/,50,Oil Cartridge,Lexikan T294 4754 DC Pure Vape (CPS)
-http://www.thehealingcorner.com/product/lexikan-t93-4755-cs-0-5g-cps/,38,0.5 grams,Lexikan T93 4755 CS 0.5g (CPS)
-http://www.thehealingcorner.com/product/lunadiene-t100-4758-vape-pina-colada-cps/,18,,Lunadiene T100 4758 Vape Pina Colada (CPS)
-http://www.thehealingcorner.com/product/lunadiene-t100-4759-vape-wild-berry-cps/,18,Oil Cartridge,Lunadiene T100 4759 Vape Wild Berry (CPS)
-http://www.thehealingcorner.com/product/lunadiene-t100-4760-vape-grape-cps/,18,Oil Cartridge,Lunadiene T100 4760 Vape Grape (CPS)
-http://www.thehealingcorner.com/product/lunadiene-t383-4722-dc-pure-vape-cps/,60,Oil Cartridge 0.5ml,LUNADIENE T383 4722 DC PURE VAPE (CPS)
-http://www.thehealingcorner.com/product/lunadiene-t86-4715-cs-0-5g-cps/,38,0.5 Grams,Lunadiene T86 4715 CS 0.5G (CPS)
-http://www.thehealingcorner.com/product/micro-tablets-4888-30-tablets-curaleaf/,20,30 Tablets,Micro Tablets 4888 30 Tablets (Curaleaf)
-http://www.thehealingcorner.com/product/mortiven-t328-4736-dc-pure-vape-cps/,50,Oil Cartridge 0.5ml,Mortiven T328 4736 DC Pure Vape (CPS)
-http://www.thehealingcorner.com/product/obalex-t82-4777-cr-0-5g-cps/,38,0.5 Grams,Obalex T82 4777 CR 0.5g (CPS)
-http://www.thehealingcorner.com/product/onyx-oil-a-t250-i-cartridge-5169-curaleaf/,35,1 Vape Cartridge,Onyx Oil A T250 I Cartridge 5169 (Curaleaf)
-http://www.thehealingcorner.com/product/onyx-t20-i-4856-3-5g-curaleaf/,33,3.5 Grams,Onyx T20% I 4856 3.5g (Curaleaf)
-http://www.thehealingcorner.com/product/onyx-t20-i-4859-select-grind-7-0g-curaleaf/,48,7.0 Grams Select Grind,Onyx T20% I 4859 Select Grind 7.0g (Curaleaf)
-http://www.thehealingcorner.com/product/onyx-t68-i-4871-curaleaf/,34,0.50 Grams,Onyx T68% I 4871 (Curaleaf)
-http://www.thehealingcorner.com/product/orange-blossom-cookies-4294-3-pack-curaleaf/,30,3 Pack,Orange Blossom Cookies 4294 3 Pack (Curaleaf)
-http://www.thehealingcorner.com/product/pagoti-t23c5-4954-pills-10-theraplant/,38,10 Capsules,Pagoti T23C5 4954 Pills- 10 (Theraplant)
-http://www.thehealingcorner.com/product/pagoti-t42c10-4955-pills-10-theraplant/,48,10 Capsules,Pagoti T42C10 4955 Pills- 10 (Theraplant)
-http://www.thehealingcorner.com/product/purple-t20-h-5119-3-5g-select-grind-curaleaf/,25,3.5 Grams of Select Grind,Purple T20% H 5119 3.5g Select Grind (Curaleaf)
-http://www.thehealingcorner.com/product/quintica-t19-4946-3-5g-theraplant/,26,3.5 Grams,Quintica T19 4946 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/rainbow-n44-c22-t28-cbn-syringe-4884-1-0ml-curaleaf/,25,1.0 ml,Rainbow N44 C22 T28 CBN Syringe 4884 1.0ml (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-k-t100-h-slim-4557curaleaf/,18,1 Disposable Vape,Rainbow Oil K T100 H Slim 4557(Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-k-t748-h-curavape-4293-4-0ml-curaleaf/,67,4.0 ml Refill,Rainbow Oil K T748 H Curavape 4293 4.0ml (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-m-t100-h-slim-4841-lemon-blue-raspberry-curaleaf/,18,1 Disposable Vape,Rainbow Oil M T100 H Slim 4841 Lemon Blue Raspberry (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-n-t100-h-slim-4842-fruit-punch-curaleaf/,18,1 Disposable Vape,Rainbow Oil N T100 H Slim 4842 Fruit Punch (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-o-c57-t93-cbd-slim-4901-grape-curaleaf/,25,1 Disposable Vape,Rainbow Oil O C57 T93 CBD Slim 4901 Grape (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-p-t150-h-slim-4902-watermelon-curaleaf/,25,1 Disposable Vape,Rainbow Oil P T150 H Slim 4902 Watermelon (Curaleaf)
-http://www.thehealingcorner.com/product/rainbow-oil-q-t150-h-slim-4903-blueberry-curaleaf/,25,1 Disposable Vape,Rainbow Oil Q T150 H Slim 4903 Blueberry (Curaleaf)
-http://www.thehealingcorner.com/product/sapphire-pure-oil-k-t344-h-concentrate-4292-curaleaf/,42,0.5 ml,Sapphire Pure Oil K T344 H Concentrate 4292 (Curaleaf)
-http://www.thehealingcorner.com/product/sapphire-t23-h-5175-3-5g-curaleaf/,33,3.5 Grams,Sapphire T23% H 5175 3.5G (Curaleaf)
-http://www.thehealingcorner.com/product/sativarin-a-rs-82-66-ndc-4618-0-5g-agl/,44,0.5 Grams,Sativarin A RS 82.66 NDC: 4618 0.5g (AGL)
-http://www.thehealingcorner.com/product/sativarin-e-22-67-ndc-5051-3-5g-copy/,37,3.5 Grams,Sativarin E 22.67 NDC: 5051 3.5g (AGL)
-http://www.thehealingcorner.com/product/sativarin-e-cr-82-30-ndc-4639-agl/,35,0.5 grams,Sativarin E CR 82.30 NDC: 4639 (AGL)
-http://www.thehealingcorner.com/product/sativarin-e-pure-oil-t652-ndc-5015-1-0-ml-agl/,92,1.0 ml,Sativarin E Pure Oil T652 NDC: 5015 1.0 ml (AGL)
-http://www.thehealingcorner.com/product/sativarin-e-vpen-300-ndc-4670-agl/,50,1 Vape Cartridge,Sativarin E VPEN 300 NDC: 4670 (AGL)
-http://www.thehealingcorner.com/product/sativarin-i-pre-rolls-23-15-ndc-5077-4-units-agl/,23,Pre-Rolls- 4 Units- 1.8 grams,Sativarin I Pre-Rolls 23.15 NDC: 5077 4 Units (AGL)
-http://www.thehealingcorner.com/product/sativarin-k-pure-vpen-414-ndc-5034-agl/,65,Vape Cartridge,Sativarin K Pure VPen 414 NDC: 5034 (AGL)
-http://www.thehealingcorner.com/product/sativarin-ob-capsules-ndc-4063-agl/,45,10 Capsules,SATIVARIN OB CAPSULES NDC: 4063 (AGL)
-http://www.thehealingcorner.com/product/sativarin-ob-tablets-ndc-4058-10x20mgagl/,45,10 Tablets,Sativarin OB Tablets NDC: 4058 10x20mg(AGL)
-http://www.thehealingcorner.com/product/sativarin-p-vpen-330-ndc-5017-agl/,50,1 Vape Cartridge,Sativarin P VPEN 330 NDC: 5017 (AGL)
-http://www.thehealingcorner.com/product/sativarin-t-19-82-ndc-4698-3-5g-agl/,35,3.5 grams,Sativarin T 19.82 NDC: 4698 3.5G (AGL)
-http://www.thehealingcorner.com/product/sativarin-t-19-82-ndc-5050-14-0g-agl/,114,14 grams,Sativarin T 19.82 NDC: 5050 14.0g (AGL)
-http://www.thehealingcorner.com/product/sativarin-t-28-04-ndc-3330-agl/,25,0.5 Grams,Sativarin T 83.09 SH NDC: 4077 0.5g (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-carmelita-ndc-3787-20mg-agl/,10,1 Carmelita,Sativum OB Carmelita NDC: 3787 20mg (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-french-toast-cookie-ndc-4001-agl/,18,Single Cookie,Sativum OB French Toast Cookie NDC: 4001 (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-peanut-butter-cookie-ndc-4000-agl/,10,1 Cookie,Sativum OB Peanut Butter Cookie NDC: 4000 (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-pistachio-granola-bites-3x20mg-ndc-3991-agl/,25,3 Pack,Sativum OB Pistachio Granola Bites 3x20mg NDC: 3991 (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-red-velvet-brownie-ndc-3788-agl/,10,1 Brownie,Sativum OB Red Velvet Brownie NDC: 3788 (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-red-velvet-brownie-ndc-3789-agl/,25,3 Pack,Sativum OB Red Velvet Brownie NDC: 3789 3x20mg (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-slips-10-x-20mg-ndc-4321-agl/,60,10 Pack,Sativum OB Slips 10 x 20mg NDC: 4321 (AGL)
-http://www.thehealingcorner.com/product/sativum-ob-sublingual-spray-ndc-5018-agl/,45,2.64 ml/ Vial,Sativum OB Sublingual Spray NDC: 5018 (AGL)
-http://www.thehealingcorner.com/product/scarlett-oil-h-t240-s-slim-4556-curaleaf/,35,Slim Disposable Vape,Scarlett Oil H T240 S Slim 4556 (Curaleaf)
-http://www.thehealingcorner.com/product/sea-salt-wheat-crackers-4848-curaleaf/,32,10 Pack,Sea Salt Wheat Crackers 4848 (Curaleaf)
-http://www.thehealingcorner.com/product/seraden-t53-4733-tincture-15ml-cps/,70,15 ml,SERADEN T53 4733 TINCTURE 15ML (CPS)
-http://www.thehealingcorner.com/product/shanibrid-t78c1-4496-0-5g-theraplant/,37,0.5 Grams,Shanibrid T78C1 4496 0.5g (Theraplant)
-http://www.thehealingcorner.com/product/silver-t24-h-5124-select-grind-7-0g-curaleaf/,48,7.0 Grams Select Grind,Silver T24% H 5124 Select Grind 7.0g (Curaleaf)
-http://www.thehealingcorner.com/product/silver-t24-h-5162-3-5g-curaleaf/,33,3.5 Grams,Silver T24% H 5162 3.5g (Curaleaf)
-http://www.thehealingcorner.com/product/silver-t69-h-4872-0-50g-curaleaf/,34,0.50 Grams,Silver T69% H 4872 0.50g (Curaleaf)
-http://www.thehealingcorner.com/product/silver-t69-h-4872-0-50g-curaleaf/,34,0.50 Grams,Silver T69% H 4872 0.50g (Curaleaf)
-http://www.thehealingcorner.com/product/skyleve-flower-t18-4740-3-5g-agl/,30,3.5 Grams,Skyleve Flower T18 4740 3.5g (CPS)
-http://www.thehealingcorner.com/product/squiblica-t17-4935-3-5g-theraplant/,25,3.5 Grams,Squiblica T17 4935 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/suchinose-t24-4478-3-5g-theraplant/,30,3.5 Grams,Suchinose T24 4478 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/sunrise-c141-t7-cbd-syringe-4522-1ml-curaleaf/,17,1.0 ml Syringe,Sunrise C141 T7 CBD Syringe 4522 1ml (Curaleaf)
-http://www.thehealingcorner.com/product/tauradene-b-flower-sc-t24-4753-3-5g-cps/,30,3.5 Grams,Tauradene B Flower SC T24 4753 3.5g (CPS)
-http://www.thehealingcorner.com/product/tauradene-b-flower-t24-4752-3-5g-cps/,38,3.5 Grams,Tauradene B Flower T24 4752 3.5g (CPS)
-http://www.thehealingcorner.com/product/tomandi-t27-4948-3-5g-theraplant/,32,3.5 Grams,Tomandi T27 4948 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/transdermal-cream-t250c11-4927-50ml-theraplant/,42,50ml,Transdermal Cream T250C11 4927 50ml (Theraplant)
-http://www.thehealingcorner.com/product/tribiken-t250-4767-vape-cps/,40,Oil Cartridge,Tribiken T250 4767 Vape (CPS)
-http://www.thehealingcorner.com/product/tribiken-t314-4157-dc-pure-vape-cps/,50,Oil Cartridge 0.5ml,Tribiken T314 4157 DC Pure Vape (CPS)
-http://www.thehealingcorner.com/product/tribiken-t88-4751-cs-0-5g-cps/,38,0.5 Grams,Tribiken T88 4751 CS 0.5g (CPS)
-http://www.thehealingcorner.com/product/umbrica-t19-4922-3-5g-theraplant/,30,3.5 grams,Umbrica T19 4922 3.5G (Theraplant)
-http://www.thehealingcorner.com/product/waybrid-t25-4943-3-5g-theraplant/,32,3.5 Grams,Waybrid T25 4943 3.5g (Theraplant)
-http://www.thehealingcorner.com/product/waybrid-t25-4944-pre-rolls-3pk-2-1g-theraplant/,20,3 Pack of Prerolled Cones- 2.1 Grams,Waybrid T25 4944 Pre-Rolls 3pk 2.1g (Theraplant)
-http://www.thehealingcorner.com/product/xinva-t71c12-4472-0-5g-theraplant/,37,0.5 Grams,Xinva T71C12 4472 0.5g (Theraplant)
-http://www.thehealingcorner.com/product/zircon-c136-t70-cbd-curavex-4549-curaleaf/,25,20 ml,Zircon C136 T70 CBD Curavex 4549 (Curaleaf)
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2314-cannabis-indica-ht,$22 ,,Cannabis Indica
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2315-cannabis-pharmacy-ht,$25 ,,Cannabis Pharmacy
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2316-cannabis-sativa-ht,$22 ,,Cannabis Sativa
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2317-cannabis-a-history-ht,$22 ,,Cannabis: A History
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2318-ganja-kitchen-revolution-ht,$24 ,,Ganja Kitchen Revolution
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2319-marijuana-gateway-to-health-ht,$17 ,,Marijuana Gateway to Health
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2320-medical-marijuana-handbook-ht,$27 ,,Medical Marijuana Handbook
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2321-mary-jane-the-complete-marijuana-handbook-for-women-ht,$20 ,,Mary Jane: The Complete Marijuana Handbook for Women
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2322-medical-marijuana-101-ht,$16 ,,Medical Marijuana 101
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2323-the-cannabis-gourmet-cookbook-ht,$27 ,,The Cannabis Gourmet Cookbook
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2324-the-cannabis-health-index-ht,$27 ,,The Cannabis Health Index
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2326-the-marijuana-chef-cookbook-ht,$16 ,,The Marijuana Chef Cookbook
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2327-the-pot-book-ht,$22 ,,The Pot Book
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2328-the-science-of-marijuana-ht,$40 ,,The Science of Marijuana
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2329-under-thunder-mountain-ht,$20 ,,Under Thunder Mountain
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2330-understanding-marijuana-ht,$35 ,,Understanding Marijuana
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2331-cannabinoids-ht,$132 ,,Cannabinoids
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2332-cannabis-and-cannabinoids-ht,$80 ,,Cannabis and Cannabinoids
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3182-pagoti-t5-03615-ht,$20 ,"
-	10Pk	",Pagoti T5 3615
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3556-hybridol-ob-lavender-lotion-3774-ht,$23 ,"
-	1.42oz	",Hybridol OB Lavender Lotion 3774
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3678-sativum-ob-red-velvet-brownie-03788-ht,$9 ,"
-	1Pk	",Sativum OB Red Velvet Brownie 3788
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3719-sativum-ob-carmelita-3787-ht,$9 ,"
-	1Pk	",Sativum OB Carmelita 3787
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3753-sativum-ob-peanut-butter-chip-cookie-4000-ht,$9 ,"
-	1Pk	",Sativum OB Peanut Butter Chip Cookie 4000
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3775-sativum-ob-honey-04007-ht,$55 ,"
-	5.38oz	",Sativum OB Honey 4007
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3888-cps-c100-tab-4097-ht,$64 ,"
-	5Pk	",CPS C100 Tab 4097
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3965-indicore-ob-s-mores-granola-bites-4045-ht,$26 ,"
-	3Pk	",Indicore OB S'mores Granola Bites 4045
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4108-sativarin-t-sh-83-09-4077-ht,$25 ,"
-	0.50g	",Sativarin T SH 83.09 4077
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4116-tauradene-b-t88-4114-cs-ht,$40 ,"
-	0.5g	",Tauradene B T88 4114 CS
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4180-hybridol-j-sh-87-49-04087-ht,$35 ,"
-	0.5g	",Hybridol J SH 87.49 4087
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4182-sativarin-ob-tablets-04058-ht,$43 ,"
-	10Pk	",Sativarin OB Tablets 4058
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4185-chocolate-chip-cookie-3881-ht,$26 ,"
-	1Pk	",Chocolate Chip Cookie 3881
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4201-indicore-ob-white-chocolate-hazelnut-cookie-4053-ht,$18 ,"
-	1Pk	",Indicore OB White Chocolate Hazelnut Cookie 4053
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4372-hybridol-ob-pure-oil-t720-4336-ht,$91 ,"
-	1.0ml	",Hybridol OB Pure Oil T720 4336
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4378-cps-thc-lotion-t150-4138-ht,$32 ,"
-	2oz	",CPS THC Lotion T150 4138
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4402-scarlett-oil-f-t100-s-slim-4239-ht,$17 ,"
-	0.45ml	",Scarlett Oil F T100 S Slim 4239
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4409-icarilex-t330-4153-dc-pure-vape-ht,$50 ,"
-	0.5g	",Icarilex T330 4153 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4411-cps-c50-extended-release-tab-4151-ht,$40 ,"
-	5Pk	",CPS C50 Extended Release Tab 4151
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4430-sativum-ob-slips-04321-ht,$55 ,"
-	10Pk	",Sativum OB Slips 4321
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4492-tribiken-t314-4157-dc-pure-vape-ht,$50 ,"
-	0.5g	",Tribiken T314 4157 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4534-sativarin-ob-capsules-4063-ht,$43 ,"
-	10Pk	",Sativarin OB Capsules 4063
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4740-jehana-t30-4453-ht,$43 ,"
-	10Pk	",Jehana T30 4453
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4761-sunrise-c141-t7-cbd-syringe-4522-ht,$17 ,"
-	1.0ml	",Sunrise C141 T7 CBD Syringe 4522
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4779-cps-oil-t860-4181-syringe-ht,$105 ,"
-	1ml	",CPS Oil T860 4181 Syringe
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4848-scarlett-oil-h-t240-s-slim-4556-ht,$40 ,"
-	0.58ml	",Scarlett Oil H T240 S Slim 4556
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4852-rainbow-oil-k-t100-h-slim-4557-ht,$17 ,"
-	0.53ml	",Rainbow Oil K T100 H Slim 4557
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4872-zircon-c136-t70-cbd-curavex-4549-ht,$26 ,"
-	20.0ml	",Zircon C136 T70 CBD Curavex 4549
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4894-indicol-f-sh-78-21-4606-ht,$43 ,"
-	0.50g	",Indicol F SH 78.21 4606
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4898-indicore-ob-slips-4611-ht,$56 ,"
-	10Pk	",Indicore OB Slips 4611
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4942-hybridol-ob-thc-oral-solution-4352-ht,$39 ,"
-	9.83ml	",Hybridol OB THC Oral Solution 4352
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4945-cinnamon-sugar-cookies-4555-ht,$32 ,"
-	3Pk	",Cinnamon Sugar Cookies 4555
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4955-suchinose-t24-4478-ht,$35 ,"
-	3.5g	",Suchinose T24 4478
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4961-cbd27-1-t1c25-4489-ht,$40 ,"
-	10Pk	",CBD27:1 T1C25 4489
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4963-cbd27-1-t2c50-4490-ht,$52 ,"
-	10Pk	",CBD27:1 T2C50 4490
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4965-sativarin-a-rs-82-66-4618-ht,$45 ,"
-	0.5g	",Sativarin A RS 82.66 4618
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4983-cbd2-1-t12c25-4486-ht,$42 ,"
-	10Pk	",CBD2:1 T12C25 4486
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4991-daxotone-t22-4452-ht,$21 ,"
-	3Pk	",Daxotone T22 4452
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5027-cps-t150c150-4705-nano-tincture-ht,$39 ,"
-	15ml	",CPS T150C150 4705 Nano-Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5050-indicore-ob-brownie-4634-ht,$9 ,"
-	1Pk	",Indicore OB Brownie 4634
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5052-indicore-ob-brownies-4635-ht,$26 ,"
-	3Pk	",Indicore OB Brownies 4635
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5068-indicore-ob-honey-4626-ht,$55 ,"
-	5.78oz	",Indicore OB Honey 4626
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5089-flavica-t25-4480-ht,$33 ,"
-	3.5g	",Flavica T25 4480
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5096-jenvapure-t1034c3-4499-ht,$105 ,"
-	1.2ml	",JenvaPure T1034C3 4499
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5104-sativarin-e-cr-82-30-4639-ht,$35 ,"
-	0.5g	",Sativarin E CR 82.30 4639
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5106-indicore-ob-chocolate-chip-cookie-4632-ht,$9 ,"
-	1Pk	",Indicore OB Chocolate Chip Cookie 4632
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5112-indicore-ob-chocolate-chip-cookies-4633-ht,$26 ,"
-	3Pk	",Indicore OB Chocolate Chip Cookies 4633
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5135-icarilex-flower-t25-4714-ht,$38 ,"
-	3.5g	",Icarilex Flower T25 4714
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5153-fioralex-flower-t28-4720-ht,$40 ,"
-	3.5g	",Fioralex Flower T28 4720
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5163-indicol-ob-tablets-4652-ht,$43 ,"
-	10Pk	",Indicol OB Tablets 4652
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5170-iced-sugar-cookies-4587-ht,$31 ,"
-	3Pk	",Iced Sugar Cookies 4587
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5180-rainbow-oil-n-t100-h-slim-4842-ht,$17 ,"
-	0.45ml	",Rainbow Oil N T100 H Slim 4842 Fruit Punch
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5182-rainbow-oil-m-t100-h-slim-4841-ht,$17 ,"
-	0.44ml	",Rainbow Oil M T100 H Slim 4841 Lemon Blue Raspberry
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5190-hybridol-w-rs-80-58-4659-ht,$45 ,"
-	0.5g	",Hybridol W RS 80.58 4659
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5193-cps-oil-c250-4197-syringe-ht,$31 ,"
-	1ml	",CPS Oil C250 4197 Syringe
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5195-cps-oral-thc-spray-t255-4724-ht,$29 ,"
-	5ml	",CPS Oral THC Spray T255 4724
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5201-elioraca-t24-4905-ht,$33 ,"
-	3.5g	",Elioraca T24 4905
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5205-cps-c40-tab-4719-ht,$29 ,"
-	5Pk	",CPS C40 Tab 4719
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5221-indigo-oil-g-t100-h-slim-4844-ht,$17 ,"
-	0.43ml	",Indigo Oil G T100 H Slim 4844
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5243-lunadiene-t86-4715-cs-ht,$39 ,"
-	0.5g	",Lunadiene T86 4715 CS
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5245-seraden-t53-4733-tincture-ht,$73 ,"
-	15ml	",Seraden T53 4733 Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5247-cps-t300-4732-nano-tincture-ht,$43 ,"
-	15ml	",CPS T300 4732 Nano-Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5251-cps-oil-t250-c250-4710-syringe-ht,$59 ,"
-	1ml	",CPS Oil T250-C250 4710 Syringe
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5253-flavica-t30-4909-ht,$43 ,"
-	10Pk	",Flavica T30 4909
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5255-flavica-t50c1-4910-ht,$52 ,"
-	10Pk	",Flavica T50C1 4910
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5260-cps-oral-spray-t150-c150-4734-ht,$42 ,"
-	5ml	",CPS Oral Spray T150-C150 4734
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5262-mortiven-t328-4736-dc-pure-vape-ht,$52 ,"
-	0.5g	",Mortiven T328 4736 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5268-jade-t20-h-4834-select-grind-ht,$26 ,"
-	3.5g SG	",Jade T20% H 4834 Select Grind
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5280-skyleve-flower-t18-4740-ht,$29 ,"
-	3.5g	",Skyleve Flower T18 4740
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5282-recidra-flower-t23-4739-ht,$38 ,"
-	3.5g	",Recidra Flower T23 4739
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5284-cps-c150-lotion-4735-ht,$40 ,"
-	2oz	",CPS C150 Lotion 4735
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5288-elioraca-t24-4906-ht,$21 ,"
-	3Pk	",Elioraca T24 4906
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5298-fioraden-d-t250-4737-vape-ht,$39 ,"
-	0.5g	",Fioraden D T250 4737 Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5326-cps-thca200-tincture-4745-ht,$31 ,"
-	10ml	",CPS THCA200 Tincture 4745
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5342-onyx-t20-i-4859-select-grind-ht,$49 ,"
-	7.0g SG	",Onyx T20% I 4859 Select Grind
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5344-hybridol-ob-oil-t283-4365-ht,$38 ,"
-	0.5ml	",Hybridol OB Oil T283 4365
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5359-sativarin-e-vpen-300-4670-ht,$52 ,"
-	0.58g	",Sativarin E VPen 300 4670
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5363-cannabidiol-d-1-5-pure-vpen-436-5012-ht,$68 ,"
-	0.58g	",Cannabidiol D 1:5 Pure VPen 436 5012
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5379-gwynivapure-t998c12-4925-ht,$103 ,"
-	1.20ml	",GwynivaPure T998C12 4925
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5385-silver-t69-h-4872-ht,$43 ,"
-	0.50g	",Silver T69% H 4872
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5389-dutch-chocolate-chip-cookies-4847-ht,$19 ,"
-	3Pk	",Dutch Chocolate Chip Cookies 4847
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5399-citron-oil-n-t150-s-slim-4887-ht,$26 ,"
-	0.50ml	",Citron Oil N T150 S Slim 4887
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5407-rainbow-n44-c22-t28-cbn-syringe-4884-ht,$26 ,"
-	1.0ml	",Rainbow N44 C22 T28 CBN Syringe 4884
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5415-micro-tablets-4888-ht,$19 ,"
-	30Pk	",Micro Tablets 4888
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5417-fioralex-t81-4746-cr-ht,$39 ,"
-	0.5g	",Fioralex T81 4746 CR
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5423-indicol-k-18-65-4699-ht,$33 ,"
-	3.5g	",Indicol K 18.65 4699
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5425-hybridol-a-23-78-4667-ht,$39 ,"
-	3.5g	",Hybridol A 23.78 4667
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5429-cannabidiol-d-pure-oil-1-17-t40-c686-4671-ht,$96 ,"
-	1.0ml	",Cannabidiol D Pure Oil 1:17 T40 C686 4671
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5431-zybrid-t22-4916-ht,$28 ,"
-	3.5g	",Zybrid T22 4916
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5433-transdermal-cream-t250c11-4927-ht,$43 ,"
-	50ml	",Transdermal Cream T250C11 4927
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5441-sativarin-e-pure-oil-t652-5015-ht,$96 ,"
-	1ml	",Sativarin E Pure Oil T652 5015
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5455-hybridol-i-pure-oil-t708-5020-ht,$96 ,"
-	1.0ml	",Hybridol I Pure Oil T708 5020
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5457-cps-t10-tab-4747-ht,$25 ,"
-	10Pk	",CPS T10 Tab 4747
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5459-fioraleve-a-t19c55-4750-tincture-ht,$71 ,"
-	15ml	",Fioraleve A T19C55 4750 Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5461-cps-t50-extended-release-tab-4749-ht,$54 ,"
-	5Pk	",CPS T50 Extended Release Tab 4749
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5463-rainbow-oil-p-t150-h-slim-4902-watermelon-ht,$26 ,"
-	0.50ml	",Rainbow Oil P T150 H Slim 4902 Watermelon 
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5465-rainbow-oil-o-c57-t93-cbd-slim-4901-grape-ht,$26 ,"
-	0.50ml	",Rainbow Oil O C57 T93 CBD Slim 4901 Grape 
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5475-umbrica-t19-4923-ht,$21 ,"
-	3Pk	",Umbrica T19 4923
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5479-tribiken-t88-4751-cs-ht,$39 ,"
-	0.5g	",Tribiken T88 4751 CS
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5497-zybrid-t22-4917-ht,$21 ,"
-	3Pk	",Zybrid T22 4917
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5501-sea-salt-wheat-crackers-4848-ht,$32 ,"
-	10Pk	",Sea Salt Wheat Crackers 4848
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5504-citron-oil-m-t570-s-curavape-5112-ht,$61 ,"
-	3.0ml	",Citron Oil M T570 S Curavape 5112
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5506-tauradene-b-flower-sc-t24-4753-ht,$31 ,"
-	3.5g SC	",Tauradene B Flower SC T24 4753
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5522-indicore-ob-granola-5013-ht,$26 ,"
-	3.30oz	",Indicore OB Granola 5013
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5524-cannabidiol-d-1-1-honey-5038-ht,$55 ,"
-	5.82oz	",Cannabidiol D 1:1 Honey 5038
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5526-gwyniva-t25-4918-ht,$29 ,"
-	3.5g	",Gwyniva T25 4918
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5539-fioraden-a-t352-4757-dc-pure-vape-ht,$61 ,"
-	0.5g	",Fioraden A T352 4757 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5541-lexikan-t294-4754-dc-pure-vape-ht,$52 ,"
-	0.5g	",Lexikan T294 4754 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5543-lexikan-t93-4755-cs-ht,$39 ,"
-	0.5g	",Lexikan T93 4755 CS
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5545-cps-oral-cbd-spray-c251-4742-ht,$43 ,"
-	5ml	",CPS Oral CBD Spray C251 4742
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5547-fioralex-t327-4756-dc-pure-vape-ht,$52 ,"
-	0.5g	",Fioralex T327 4756 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5549-hybridol-p-22-02-5025-ht,$36 ,"
-	3.5g	",Hybridol P 22.02 5025
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5553-sativarin-p-vpen-330-5017-ht,$52 ,"
-	0.58g	",Sativarin P VPen 330 5017
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5555-hybridol-i-vpen-330-5045-ht,$52 ,"
-	0.58g	",Hybridol I VPen 330 5045
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5557-indicol-p-pure-vpen-407-5031-ht,$68 ,"
-	0.58g	",Indicol P Pure VPen 407 5031
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5563-cannabidiol-d-1-5-capsules-5041-ht,$43 ,"
-	10Pk	",Cannabidiol D 1:5 Capsules 5041
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5565-cannabidiol-d-cbd-oral-solution-5036-ht,$39 ,"
-	9.56ml	",Cannabidiol D CBD Oral Solution 5036
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5577-ohbrid-t26-4915-ht,$21 ,"
-	3Pk	",Ohbrid T26 4915
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5588-purple-t20-h-5120-single-cone-ht,$11 ,"
-	1Pk	",Purple T20% H 5120 Single Cone
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5592-silver-t24-h-5121-ht,$19 ,"
-	2.0g	",Silver T24% H 5121
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5594-garnet-t23-h-5125-ht,$32 ,"
-	3.5g	",Garnet T23% H 5125
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5598-citron-t27-s-4882-select-grind-ht,$26 ,"
-	3.5 SG	",Citron T27% S 4882 Select Grind
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5600-indicol-x-21-98-5022-ht,$36 ,"
-	3.5g	",Indicol X 21.98 5022
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5606-cannabidiol-d-1-5-slips-t3-4-c17-8-5039-ht,$56 ,"
-	10Pk	",Cannabidiol D 1:5 Slips T3.4 C17.8 5039
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5610-indicol-a-pure-vpen-433-5057-ht,$68 ,"
-	0.58g	",Indicol A Pure VPen 433 5057
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5612-sativarin-k-pure-vpen-414-5034-ht,$68 ,"
-	0.58g	",Sativarin K Pure VPen 414 5034
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5614-hybridol-i-pure-vpen-411-5019-ht,$68 ,"
-	0.58g	",Hybridol I Pure VPen 411 5019
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5616-sativarin-e-pure-vpen-377-5014-ht,$68 ,"
-	0.58g	",Sativarin E Pure VPen 377 5014
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5618-hybridol-t-rs-80-13-5030-ht,$45 ,"
-	0.5g	",Hybridol T RS 80.13 5030
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5620-hybridol-t-rs-80-13-5043-ht,$82 ,"
-	1.0g	",Hybridol T RS 80.13 5043
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5622-indicol-p-cr-85-25-5059-ht,$35 ,"
-	0.5g	",Indicol P CR 85.25 5059
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5624-indicol-p-cr-85-25-5060-ht,$64 ,"
-	1.0g	",Indicol P CR 85.25 5060
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5626-lunadiene-t100-4758-vape-pina-colada-ht,$17 ,"
-	0.5g	",Lunadiene T100 4758 Vape Pina Colada
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5628-lunadiene-t100-4760-vape-grape-ht,$17 ,"
-	0.5g	",Lunadiene T100 4760 Vape Grape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5630-lunadiene-t100-4759-vape-wild-berry-ht,$17 ,"
-	0.5g	",Lunadiene T100 4759 Vape Wild Berry
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5632-cps-t100c100-4763-nano-tincture-ht,$28 ,"
-	10ml	",CPS T100C100 4763 Nano-Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5634-cps-t200-4762-nano-tincture-ht,$31 ,"
-	10ml	",CPS T200 4762 Nano-Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5636-cps-c200-4761-nano-tincture-ht,$26 ,"
-	10ml	",CPS C200 4761 Nano-Tincture
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5644-cps-c10-effervescent-tablet-4765-ht,$15 ,"
-	10Pk	",CPS C10 Effervescent Tablet 4765
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5647-cps-c10-tab-4748-ht,$15 ,"
-	10Pk	",CPS C10 Tab 4748
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5649-indicol-k-pre-rolls-18-65-5047-ht,$23 ,"
-	4Pk	",Indicol K Pre Rolls 18.65 5047
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5651-indicol-c-pure-vpen-466-5055-ht,$68 ,"
-	0.58g	",Indicol C Pure VPen 466 5055
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5657-hybridol-t-sh-88-39-5062-ht,$64 ,"
-	1.0g	",Hybridol T SH 88.39 5062
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5663-waybrid-t25-4943-ht,$29 ,"
-	3.5g	",Waybrid T25 4943
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5679-chocolate-peanut-butter-bites-4849-ht,$34 ,"
-	5Pk	",Chocolate Peanut Butter Bites 4849
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5689-silver-t24-h-5124-select-grind-ht,$49 ,"
-	7.0 SG	",Silver T24% H 5124 Select Grind
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5691-citron-t75-s-5142-ht,$43 ,"
-	0.5g	",Citron T75% S 5142
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5693-onyx-oil-a-t250-i-cartridge-5169-ht,$35 ,"
-	0.58ml	",Onyx Oil A T250 I Cartridge 5169
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5696-tomandi-t27-4948-ht,$30 ,"
-	3.5g	",Tomandi T27 4948
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5702-cps-t100c100-4768-lotion-ht,$31 ,"
-	2oz	",CPS T100C100 4768 Lotion
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5706-hybridol-z-23-02-5081-ht,$38 ,"
-	3.5g	",Hybridol Z 23.02 5081
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5708-sativarin-i-pre-rolls-23-15-5077-ht,$23 ,"
-	4Pk	",Sativarin I Pre Rolls 23.15 5077
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5710-hybridol-a-cr-85-76-5076-ht,$35 ,"
-	0.5g	",Hybridol A CR 85.76 5076
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5715-indicol-a-vpen-330-5074-ht,$52 ,"
-	0.58g	",Indicol A VPen 330 5074
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5719-indicol-p-vpen-330-5070-ht,$52 ,"
-	0.58g	",Indicol P VPen 330 5070
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5725-hybridol-y-pure-vpen-411-5067-ht,$68 ,"
-	0.58g	",Hybridol Y Pure VPen 411 5067
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5727-sativarin-ob-capsules-4378-ht,$43 ,"
-	10Pk	",Sativarin OB Capsules 4378
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5730-cbd25-1-t1c19-4950-ht,$29 ,"
-	3.5g	",CBD25:1 T1C19 4950
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5731-gwyniva-t25-4919-ht,$21 ,"
-	3Pk	",Gwyniva T25 4919
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5733-cbd25-1-t1c21-4459-ht,$21 ,"
-	3Pk	",CBD25:1 T1C21 4459
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5737-lunadiene-t383-4722-dc-pure-vape-ht,$61 ,"
-	0.5g	",Lunadiene T383 4722 DC Pure Vape
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5741-cps-c200-4774-aloe-lotion-ht,$29 ,"
-	2oz	",CPS C200 4774 Aloe Lotion
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5745-quintica-t19-4946-ht,$27 ,"
-	3.5g	",Quintica T19 4946
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5749-onyx-t25-i-5129-ht,$32 ,"
-	3.5g	",Onyx T25% I 5129
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5751-silver-t24-h-5162-ht,$32 ,"
-	3.5g	",Silver T24% H 5162
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5755-citron-t26-s-5143-ht,$32 ,"
-	3.5g	",Citron T26% S 5143
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5757-haracept-t24-4931-ht,$27 ,"
-	3.5g	",Haracept T24 4931
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5766-purple-t20-h-5119-select-grind-ht,$26 ,"
-	3.5g SG	",Purple T20% H 5119 Select Grind
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5770-obalex-t82-4777-cr-ht,$39 ,"
-	0.5g	",Obalex T82 4777 CR
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5772-indicol-w-rs-84-84-5086-ht,$45 ,"
-	0.5g	",Indicol W RS 84.84 5086
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5774-indicol-de-25-86-5084-ht,$42 ,"
-	3.5g	",Indicol DE 25.86 5084
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5776-hybridol-a-26-60-5023-ht,$39 ,"
-	3.5g	",Hybridol A 26.60 5023
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5778-pagoti-t42c10-4955-ht,$48 ,"
-	10Pk	",Pagoti T42C10 4955
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5780-pagoti-t23c5-4954-ht,$39 ,"
-	10Pk	",Pagoti T23C5 4954
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5786-suchinose-t23-4941-ht,$27 ,"
-	3.5g	",Suchinose T23 4941
-https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5790-tomandi-t27-4949-ht,$21 ,"
-	3Pk	",Tomandi T27 4949
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+link,price,size,title
+https://www.soctwellness.com/product/elioraca-t24-4906-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Elioraca T24 4906 – Pre-Rolls	"
+https://www.soctwellness.com/product/emerald-t19-5156-select-grind-flower/,32.00,3.5g,"
+		Emerald T19 5156 – Select Grind Flower	"
+https://www.soctwellness.com/product/emerald-t21-4829-pre-rolls/,21.00,"1 pk (3 pre-rolls), 1.5g","
+		Emerald T21 4829 – Pre-Rolls	"
+https://www.soctwellness.com/product/fioralex-t28-4720-flower/,40.00,3.5g,"
+		Fioralex T28 4720 – Flower	"
+https://www.soctwellness.com/product/garnet-t23-5125-flower/,32.00,3.5g,"
+		Garnet T23 5125 – Flower	"
+https://www.soctwellness.com/product/garnet-t23-5126-select-grind-flower/,26.00,3.5g,"
+		Garnet T23 5126 – Select Grind Flower	"
+https://www.soctwellness.com/product/gwyniva-t25-4918-flower/,30.00,3.5g,"
+		Gwyniva T25 4918 – Flower	"
+https://www.soctwellness.com/product/gwyniva-t25-4919-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Gwyniva T25 4919 – Pre-Rolls	"
+https://www.soctwellness.com/product/haracept-t24-4931-flower/,27.00,3.5g,"
+		Haracept T24 4931 – Flower	"
+https://www.soctwellness.com/product/hybridol-a-26-6-5023-flower/,39.00,3.5g,"
+		Hybridol A 26.6 5023 – Flower	"
+https://www.soctwellness.com/product/hybridol-n-23-07-5096-flower/,40.00,3.5g,"
+		Hybridol N 23.07 5096 – Flower	"
+https://www.soctwellness.com/product/hybridol-p-22-02-5025-flower/,37.00,3.5g,"
+		Hybridol P 22.02 5025 – Flower	"
+https://www.soctwellness.com/product/hybridol-z-23-02-5081-flower/,39.00,3.5g,"
+		Hybridol Z 23.02 5081 – Flower	"
+https://www.soctwellness.com/product/icarilex-t25-4714-flower/,39.00,3.5g,"
+		Icarilex T25 4714 – Flower	"
+https://www.soctwellness.com/product/icarilex-t25-4729-second-cut-flower/,32.00,3.5g,"
+		Icarilex T25 4729 – Second Cut Flower	"
+https://www.soctwellness.com/product/tribiken-t250-4767-vape-cartridge/,40.00,0.5g,"
+		Tribiken T250 4767 – Vape Cartridge	"
+https://www.soctwellness.com/product/suchinose-t23-4941-flower/,27.00,3.5g,"
+		Suchinose T23 4941 – Flower	"
+https://www.soctwellness.com/product/tauradene-b-t24-4752-flower/,39.00,3.5g,"
+		Tauradene B T24 4752 – Flower	"
+https://www.soctwellness.com/product/tauradene-b-t24-4753-second-cut-flower/,32.00,3.5g,"
+		Tauradene B T24 4753 – Second Cut Flower	"
+https://www.soctwellness.com/product/tomandi-t27-4949-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Tomandi T27 4949 – Pre-Rolls	"
+https://www.soctwellness.com/product/umbrica-t19-4922-flower/,28.00,3.5g,"
+		Umbrica T19 4922 – Flower	"
+https://www.soctwellness.com/product/umbrica-t19-4923-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Umbrica T19 4923 – Pre-Rolls	"
+https://www.soctwellness.com/product/waybrid-t25-4943-flower/,30.00,3.5g,"
+		Waybrid T25 4943 – Flower	"
+https://www.soctwellness.com/product/waybrid-t25-4944-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Waybrid T25 4944 – Pre-Rolls	"
+https://www.soctwellness.com/product/zybrid-t22-4916-flower/,28.00,3.5g,"
+		Zybrid T22 4916 – Flower	"
+https://www.soctwellness.com/product/zybrid-t22-4917-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Zybrid T22 4917 – Pre-Rolls	"
+https://www.soctwellness.com/product/indicol-z-pure-413-vpen-5054-vape-cartridge/,68.00,0.58ml (cartridge),"
+		Indicol Z Pure 413 Vpen 5054 – Vape Cartridge	"
+https://www.soctwellness.com/product/indigo-oil-g-t100-4844-slim-vape/,19.00,0.44ml (slim),"
+		Indigo Oil G T100 4844 – Slim Vape	"
+https://www.soctwellness.com/product/jade-oil-b-t150-4885-slim-vape/,26.00,0.51 mL (1 Slim),"
+		Jade Oil B T150 4885 – Slim Vape	"
+https://www.soctwellness.com/product/jade-t77-4846-vape-refill-concentrate/,44.00,0.50 ml,"
+		Jade T77% 4846 – Vape Refill & Concentrate	"
+https://www.soctwellness.com/product/jenvapure-t1034c3-4499-vape-refill/,105.00,1.2mL Refill Cartridge,"
+		JenvaPure T1034C3 4499 – Vape Refill	"
+https://www.soctwellness.com/product/jenvapure-t314c1-4498-vape-cartridge/,39.00,0.3mL Cartridge,"
+		JenvaPure T314C1 4498 – Vape Cartridge	"
+https://www.soctwellness.com/product/lexikan-pure-t294-vpen-4754-vape-cartridge/,53.00,0.5g,"
+		Lexikan Pure T294 Vpen 4754 – Vape Cartridge	"
+https://www.soctwellness.com/product/lexikan-t250-4773-vape-cartridge/,40.00,0.5g,"
+		Lexikan T250 4773 – Vape Cartridge	"
+https://www.soctwellness.com/product/lunadiene-t100-grape-4760-vape-cartridge/,18.00,0.5g,"
+		Lunadiene T100 Grape 4760 – Vape Cartridge	"
+https://www.soctwellness.com/product/lunadiene-t100-pina-colada-4758-vape-cartridge/,18.00,0.5g,"
+		Lunadiene T100 Pina Colada 4758 – Vape Cartridge	"
+https://www.soctwellness.com/product/lunadiene-t100-wild-berry-4759-vape-cartridge/,18.00,0.5g,"
+		Lunadiene T100 Wild Berry 4759 – Vape Cartridge	"
+https://www.soctwellness.com/product/lunadiene-t383-pure-4722-vape-cartridge/,61.00,0.5g,"
+		Lunadiene T383 Pure 4722 – Vape Cartridge	"
+https://www.soctwellness.com/product/mortiven-t328-pure-4736-vape-cartridge/,53.00,0.5g,"
+		Mortiven T328 Pure 4736 – Vape Cartridge	"
+https://www.soctwellness.com/product/onyx-oil-a-t250-5169-vape-cartridge/,35.00,0.58ml (cartridge),"
+		Onyx Oil A T250 5169 – Vape Cartridge	"
+https://www.soctwellness.com/product/onyx-t68-4871-vape-refill-concentrate/,44.00,0.5g,"
+		Onyx T68 4871 – Vape Refill & Concentrate	"
+https://www.soctwellness.com/product/indicol-de-25-86-5084-flower/,42.00,3.5g,"
+		Indicol DE 25.86 5084 – Flower	"
+https://www.soctwellness.com/product/indicol-k-18-65-4pk-5047-pre-rolls/,24.00,"1.8g, 1pk (4 pre-rolls)","
+		Indicol K 18.65 (4pk) 5047 – Pre-Rolls	"
+https://www.soctwellness.com/product/indicol-k-18-65-flower-4699/,33.00,3.5g,"
+		Indicol K 18.65 Flower 4699	"
+https://www.soctwellness.com/product/indicol-x-21-98-5022-flower/,37.00,3.5g,"
+		Indicol X 21.98 5022 – Flower	"
+https://www.soctwellness.com/product/onyx-t25-5129-flower/,32.00,3.5g,"
+		Onyx T25 5129 – Flower	"
+https://www.soctwellness.com/product/purple-t21-4820-select-grind-flower/,26.00,3.5g,"
+		Purple  T21 4820 – Select Grind Flower	"
+https://www.soctwellness.com/product/quintica-t19-4946-flower/,27.00,3.5g,"
+		Quintica T19 4946 – Flower	"
+https://www.soctwellness.com/product/recidra-t23-4739-flower/,39.00,3.5g,"
+		Recidra T23 4739 – Flower	"
+https://www.soctwellness.com/product/sapphire-t21-4828-select-grind-flower/,26.00,3.5g,"
+		Sapphire T21 4828 – Select Grind Flower	"
+https://www.soctwellness.com/product/sapphire-t23-5175-flower/,32.00,3.5g,"
+		Sapphire T23 5175 – Flower	"
+https://www.soctwellness.com/product/sativarin-e-22-67-5051-flower/,35.00,3.5g,"
+		Sativarin E 22.67 5051 – Flower	"
+https://www.soctwellness.com/product/sativarin-t-19-82-4698-flower/,33.00,3.5g,"
+		Sativarin T 19.82 4698 – Flower	"
+https://www.soctwellness.com/product/songrica-t22-4913-pre-rolls/,21.00,2.1g,"
+		Songrica T22 4913 – Pre-rolls	"
+https://www.soctwellness.com/product/squiblica-t17-4935-flower/,26.00,3.5g,"
+		Squiblica T17 4935 – Flower	"
+https://www.soctwellness.com/product/squiblica-t17-4936-pre-rolls/,21.00,"1 pk (3 pre-rolls), 2.1g","
+		Squiblica T17 4936 – Pre-Rolls	"
+https://www.soctwellness.com/product/rainbow-oil-k-t100-4557-slim-vape/,19.00,0.52mL (1 Slim),"
+		Rainbow Oil K T100 4557 – Slim Vape	"
+https://www.soctwellness.com/product/rainbow-oil-k-t748-4293-curavape-refill/,70.00,4 ml,"
+		Rainbow Oil K T748 4293 – Curavape Refill	"
+https://www.soctwellness.com/product/rainbow-oil-n-t100-fruit-punch-4842-slim-vape/,19.00,0.44ml (slim),"
+		Rainbow Oil N T100 Fruit Punch 4842 – Slim Vape	"
+https://www.soctwellness.com/product/rainbow-oil-o-cbd-c57-t193-grape-4901-slim-vape/,26.00,0.50 ml,"
+		Rainbow Oil-O CBD C57 T193 Grape 4901 – Slim Vape	"
+https://www.soctwellness.com/product/rainbow-oil-p-t150-watermelon-4902-slim-vape/,26.00,0.50 ml,"
+		Rainbow Oil-P T150 Watermelon 4902 – Slim Vape	"
+https://www.soctwellness.com/product/rainbow-oil-q-t150-blueberry-4903-slim-vape/,26.00,0.50 ml,"
+		Rainbow Oil-Q T150 Blueberry 4903 – Slim Vape	"
+https://www.soctwellness.com/product/rainbow-oil-r-t150-pineapple-4904-slim-vape/,26.00,0.50 ml,"
+		Rainbow Oil-R T150 Pineapple 4904 – Slim Vape	"
+https://www.soctwellness.com/product/sapphire-pure-oil-k-t344-4292-vape-refill-oral-syringe-concentrate/,46.00,0.5g,"
+		Sapphire Pure Oil K T344 4292 – Vape Refill, Oral Syringe & Concentrate	"
+https://www.soctwellness.com/product/sativarin-e-300-vpen-4670-vape-cartridge/,53.00,0.58ml (cartridge),"
+		Sativarin E 300 Vpen 4670 – Vape Cartridge	"
+https://www.soctwellness.com/product/sativarin-e-pure-377-vpen-5014-vape-cartridge/,68.00,0.58ml (cartridge),"
+		Sativarin E Pure 377 Vpen 5014 – Vape Cartridge	"
+https://www.soctwellness.com/product/sativarin-e-pure-t652-oil-5015-vape-refill/,96.00,1 mL syringe,"
+		Sativarin E Pure T652 Oil 5015 – Vape Refill, Oral Syringe & Concentrate	"
+https://www.soctwellness.com/product/sativarin-k-pure-414-vpen-5034-vape-cartridge/,68.00,0.58ml (cartridge),"
+		Sativarin K Pure 414 Vpen 5034 – Vape Cartridge	"
+https://www.soctwellness.com/product/sativarin-p-330-vpen-5017-vape-cartridge/,53.00,0.58ml (cartridge),"
+		Sativarin P 330 Vpen 5017 – Vape Cartridge	"
+https://www.soctwellness.com/product/scarlett-oil-f-t100-4239-slim-vape/,19.00,0.45ml,"
+		Scarlett Oil F T100 4239 – Slim Vape	"
+https://www.soctwellness.com/product/silver-t69-4872-concentrate-vape-refill/,44.00,0.5g,"
+		Silver T69 4872 – Concentrate & Vape Refill	"
+link,price,size,title
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/cps-c200-4774-aloe-lotion-cps/,30.00,2oz,CPS C200 4774 Aloe Lotion (CPS)
+http://www.thehealingcorner.com/product/cps-t100c100-4768-lotion-cps/,30.00,2oz,CPS T100C100 4768 Lotion (CPS)
+http://www.thehealingcorner.com/product/transdermal-cream-t250c11-4927-50ml-theraplant/,42.00,50ml,Transdermal Cream T250C11 4927 50ml (Theraplant)
+http://www.thehealingcorner.com/product/hybridol-ob-lavender-lotion-ndc-3774-agl/,22.00,1.42 oz,Hybridol OB Lavender Lotion NDC: 3774 (AGL)
+http://www.thehealingcorner.com/product/cps-thc-lotion-t150-4138-cps/,30.00,2oz  ,CPS THC Lotion T150 4138 (CPS)
+http://www.thehealingcorner.com/product/cps-cbd-lotion-c150-4769-cps/,28.00,2 oz,CPS CBD Lotion C150 4769 (CPS)
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/brownie-bites-4586-curaleaf/,34.00,5 Pack,Brownie Bites 4586 (Curaleaf)
+http://www.thehealingcorner.com/product/cannabidiol-d-11-coconut-oil-ndc-5042-3-13ozagl/,55.00,3.13 oz,Cannabidiol D 1:1 Coconut Oil NDC: 5042 3.13oz(AGL)
+http://www.thehealingcorner.com/product/cannabidiol-d-11-honey-5038-5-82oz-agl/,55.00,5.82 oz Jar,Cannabidiol D 1:1 Honey 5038 5.82oz (AGL)
+http://www.thehealingcorner.com/product/chocolate-peanut-butter-bites-4849-curaleaf/,34.00,5 Pack,Chocolate Peanut Butter Bites 4849 (Curaleaf)
+http://www.thehealingcorner.com/product/iced-sugar-cookies-4587-3-pack-curaleaf/,30.00,3 Pack,Iced Sugar Cookies 4587 3 pack (Curaleaf)
+http://www.thehealingcorner.com/product/indicore-ob-brownie-ndc-4634-agl/,10.00,1 Brownie,Indicore OB Brownie NDC: 4634 (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-chocolate-chip-cookie-ndc-4632/,10.00,1 Cookie,Indicore OB Chocolate Chip Cookie NDC: 4632
+http://www.thehealingcorner.com/product/indicore-ob-granola-ndc-5013-60mg-3-5oz-agl/,25.00,3.50 oz,Indicore OB Granola NDC: 5013 60mg 3.5oz (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-white-chocolate-hazelnut-cookie-ndc-4053/,18.00,1 Cookie,Indicore OB White Chocolate Hazelnut Cookie NDC: 4053
+http://www.thehealingcorner.com/product/orange-blossom-cookies-4294-3-pack-curaleaf/,30.00,3 Pack,Orange Blossom Cookies 4294 3 Pack (Curaleaf)
+http://www.thehealingcorner.com/product/sativum-ob-red-velvet-brownie-ndc-3789-agl/,25.00,3 Pack,Sativum OB Red Velvet Brownie NDC: 3789 3x20mg (AGL)
+http://www.thehealingcorner.com/product/sea-salt-wheat-crackers-4848-curaleaf/,32.00,10 Pack,Sea Salt Wheat Crackers 4848 (Curaleaf)
+http://www.thehealingcorner.com/product/indicore-ob-malted-chocolate-cookie-100mg-ndc-4047-agl/,34.00,Single Cookie,Indicore OB Malted Chocolate Cookie 100mg NDC: 4047 (AGL)
+http://www.thehealingcorner.com/product/sativum-ob-carmelita-ndc-3787-20mg-agl/,10.00,1 Carmelita,Sativum OB Carmelita NDC: 3787 20mg (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-brownies-3x20mg-ndc-4635-agl/,25.00,3 Pack,Indicore OB Brownies 3x20mg NDC: 4635 (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-smores-granola-bites-3x-20mg-v1-agl/,25.00,3 Pack,Indicore OB S’mores Granola Bites 3x20mg NDC: 4045 (AGL)
+http://www.thehealingcorner.com/product/sativum-ob-red-velvet-brownie-ndc-3788-agl/,10.00,1 Brownie,Sativum OB Red Velvet Brownie NDC: 3788 (AGL)
+http://www.thehealingcorner.com/product/sativum-ob-pistachio-granola-bites-3x20mg-ndc-3991-agl/,25.00,3 Pack,Sativum OB Pistachio Granola Bites 3x20mg NDC: 3991 (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-honey-200mg-ndc-4626-agl/,55.00,4oz Jar,Indicore OB Honey 200mg NDC: 4626 (AGL)
+http://www.thehealingcorner.com/product/cinnamon-sugar-cookies-4555-3-packcuraleaf/,32.00,3 Pack,Cinnamon Sugar Cookies 4555 3 Pack (Curaleaf)
+http://www.thehealingcorner.com/product/dutch-chocolate-cookies-2149-curaleaf/,19.00,3 Pack,Dutch Chocolate Chip Cookies 4847 (Curaleaf)
+http://www.thehealingcorner.com/product/sativum-ob-peanut-butter-cookie-ndc-4000-agl/,10.00,1 Cookie,Sativum OB Peanut Butter Cookie NDC: 4000 (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-chocolate-chip-cookies-3-x-20mg-ndc-4633-agl/,25.00,3 Pack,Indicore OB Chocolate Chip Cookies 3 x 20mg NDC: 4633 (AGL)
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/bianca-c30-t31-cbd-4854-0-50g-curaleaf/,34.00,0.5 ml,Bianca C30% T31% CBD 4854 0.50g (Curaleaf)
+http://www.thehealingcorner.com/product/biscay-t84-4945-concentrate-1-0g-theraplant/,66.00,1.0 Grams,Biscay T84 4945 Concentrate 1.0g (Theraplant)
+http://www.thehealingcorner.com/product/blue-t64-h-4855-0-50g-curaleaf/,34.00,0.5 ml,Blue T64% H 4855 0.50g (Curaleaf)
+http://www.thehealingcorner.com/product/citron-t75-s-5142-curaleaf/,42.00,0.50 Grams,Citron T75% S 5142 (Curaleaf)
+http://www.thehealingcorner.com/product/fioralex-t81-4746-cr-0-5g-cps/,38.00,0.5 Grams,Fioralex T81 4746 CR 0.5g (CPS)
+http://www.thehealingcorner.com/product/hybridol-j-sh-87-49-ndc4087-0-5g-agl/,35.00,0.5 Gram,Hybridol J SH 87.49 NDC:4087 0.5g (AGL)
+http://www.thehealingcorner.com/product/hybridol-t-rs-80-13-ndc-5030-0-5g-agl/,44.00,0.5 Gram,Hybridol T RS 80.13 NDC: 5030 0.5g (AGL)
+http://www.thehealingcorner.com/product/hybridol-t-rs-80-13-ndc-5043-1-0g-agl/,80.00,1.0 Gram,Hybridol T RS 80.13 NDC: 5043 1.0g (AGL)
+http://www.thehealingcorner.com/product/hybridol-t-sh-88-39-ndc-5061-0-5g-agl/,65.00,1.0 Gram,Hybridol T SH 88.39 NDC: 5062 1.0g (AGL)
+http://www.thehealingcorner.com/product/hybridol-w-rs-80-58-ndc-4659-0-5g-agl/,44.00,0.5 Grams,Hybridol W RS 80.58 NDC: 4659 0.5g (AGL)
+http://www.thehealingcorner.com/product/indicol-f-sh-78-21-ndc-4606-0-5g-agl/,35.00,0.5 Grams,Indicol F SH 78.21 NDC: 4606 0.5g (AGL)
+http://www.thehealingcorner.com/product/indicol-o-bd-83-51-ndc-5090-0-5g-agl/,35.00,0.5 grams,Indicol O BD 83.51 NDC: 5090 0.5G (AGL)
+http://www.thehealingcorner.com/product/indicol-p-cr-85-25-ndc-5059-0-5g-agl/,35.00,0.5 gram,Indicol P CR 85.25 NDC: 5059 0.5g (AGL)
+http://www.thehealingcorner.com/product/indicol-p-cr-85-25-ndc-5060-1-0g-agl/,65.00,1.0 gram,Indicol P CR 85.25 NDC: 5060 1.0g (AGL)
+http://www.thehealingcorner.com/product/indicol-w-rs-84-84-ndc-5086-0-5g-agl/,44.00,0.5 Gram,Indicol W RS 84.84 NDC: 5086 0.5g (AGL)
+http://www.thehealingcorner.com/product/jade-t77-4846-0-50g-curaleaf/,42.00,0.5ml,Jade T77% 4846 0.50g (Curaleaf)
+http://www.thehealingcorner.com/product/lunadiene-t86-4715-cs-0-5g-cps/,38.00,0.5 Grams,Lunadiene T86 4715 CS 0.5G (CPS)
+http://www.thehealingcorner.com/product/obalex-t82-4777-cr-0-5g-cps/,38.00,0.5 Grams,Obalex T82 4777 CR 0.5g (CPS)
+http://www.thehealingcorner.com/product/onyx-t68-i-4871-curaleaf/,34.00,0.50 Grams,Onyx T68% I 4871 (Curaleaf)
+http://www.thehealingcorner.com/product/sativarin-a-rs-82-66-ndc-4618-0-5g-agl/,44.00,0.5 Grams,Sativarin A RS 82.66 NDC: 4618 0.5g (AGL)
+http://www.thehealingcorner.com/product/sativarin-e-cr-82-30-ndc-4639-agl/,35.00,0.5 grams,Sativarin E CR 82.30 NDC: 4639 (AGL)
+http://www.thehealingcorner.com/product/shanibrid-t78c1-4496-0-5g-theraplant/,37.00,0.5 Grams,Shanibrid T78C1 4496 0.5g (Theraplant)
+http://www.thehealingcorner.com/product/silver-t69-h-4872-0-50g-curaleaf/,34.00,0.50 Grams,Silver T69% H 4872 0.50g (Curaleaf)
+http://www.thehealingcorner.com/product/tribiken-t88-4751-cs-0-5g-cps/,38.00,0.5 Grams,Tribiken T88 4751 CS 0.5g (CPS)
+http://www.thehealingcorner.com/product/xinva-t71c12-4472-0-5g-theraplant/,37.00,0.5 Grams,Xinva T71C12 4472 0.5g (Theraplant)
+http://www.thehealingcorner.com/product/lexikan-t93-4755-cs-0-5g-cps/,38.00,0.5 grams,Lexikan T93 4755 CS 0.5g (CPS)
+http://www.thehealingcorner.com/product/hybridol-q-sh-83-86-ndc-4641-agl/,35.00,0.5 Grams,Hybridol Q SH 83.86 NDC: 4641 (AGL)
+http://www.thehealingcorner.com/product/sativarin-t-28-04-ndc-3330-agl/,25.00,0.5 Grams,Sativarin T 83.09 SH NDC: 4077 0.5g (AGL)
+http://www.thehealingcorner.com/product/hybridol-f-cr-86-17-ndc-4662-0-5g-agl/,35.00,0.5 Grams,Hybridol F CR 86.17 NDC: 4662 0.5g (AGL)
+http://www.thehealingcorner.com/product/hybridol-a-cr-85-75-ndc-5076-0-5g-agl/,35.00,0.5 Grams,Hybridol A CR 85.75 NDC: 5076 0.5g (AGL)
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/aniva-t10-4471-pills-10-theraplant/,20.00,10 Pills,Aniva T10 4471 Pills-10 (Theraplant)
+http://www.thehealingcorner.com/product/aniva-t2-5-4469-pills-10-theraplant/,10.00,10 Pills,Aniva T2.5 4469 Pills-10 (Theraplant)
+http://www.thehealingcorner.com/product/cbd271-t1c25-4489-pills-10-theraplant/,39.00,10 Capsules,CBD27:1 T1C25 4489 Pills-10 (Theraplant)
+http://www.thehealingcorner.com/product/cps-c10-effervescent-tablet-4765-10-tablets-cps/,15.00,10 Tablets,CPS C10 Effervescent Tablet 4765 10 Tablets (CPS)
+http://www.thehealingcorner.com/product/cps-c10-tab-4748-10-tablets-cps/,15.00,10 Tablets,CPS C10 Tab 4748 10 Tablets (CPS)
+,,,
+http://www.thehealingcorner.com/product/cps-c50-extended-release-tab-4151cps/,42.00,5 Tablets,CPS C50 Extended Release Tab 4151(CPS)
+http://www.thehealingcorner.com/product/cps-t10-effervescent-tablet-4764-cps/,25.00,10 Tablets,CPS T10 Effervescent Tablet 4764 (CPS)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/cps-t40-tab-4141-cps/,34.00,5 Tablets,CPS T40 Tab 4141 5 Tablets (CPS)
+http://www.thehealingcorner.com/product/cps-t50-extended-release-tab-4749-cps/,52.00,5 Tablets,CPS T50 Extended Release Tab 4749 (CPS)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/flavica-t50c1-4910-pills-10-theraplant/,50.00,10 Capsules,Flavica T50C1 4910 Pills-10 (Theraplant)
+http://www.thehealingcorner.com/product/indicol-ob-capsules-10-x-20mg-ndc-4630-agl/,45.00,10 Capsules,Indicol OB Capsules- 10 x 20mg NDC: 4630 (AGL)
+,,,
+http://www.thehealingcorner.com/product/360xlp-t502c23-4502-oil-syringe-1-0ml-theraplant/,55.00,1 ml Oil Syringe,360XLP T502C23 4502 Oil Syringe 1.0ml (Theraplant)
+http://www.thehealingcorner.com/product/indicol-ob-capsules-10-x-40mg-ndc-4404-agl/,80.00,10 Capsules,Indicol OB Capsules- 10 x 40mg NDC: 4404 (AGL)
+http://www.thehealingcorner.com/product/indicol-ob-tablets-ndc-4652-10x-20mg-agl/,45.00,10 Tablets,Indicol OB Tablets NDC: 4652 10x 20mg (AGL)
+http://www.thehealingcorner.com/product/cannabidiol-d-11-sublingual-spray-ndc-5068-agl/,45.00,0.08 oz,Cannabidiol D 1:1 Sublingual Spray NDC: 5068 (AGL)
+http://www.thehealingcorner.com/product/cannabidiol-d-cbd-oral-solution-ndc-5036-9-56-ml-agl/,38.00,9.56 ml/Container,Cannabidiol D CBD Oral Solution NDC: 5036 9.56 ml (AGL)
+http://www.thehealingcorner.com/product/micro-tablets-4888-30-tablets-curaleaf/,20.00,30 Tablets,Micro Tablets 4888 30 Tablets (Curaleaf)
+http://www.thehealingcorner.com/product/sativarin-ob-capsules-ndc-4063-agl/,45.00,10 Capsules,SATIVARIN OB CAPSULES NDC: 4063 (AGL)
+http://www.thehealingcorner.com/product/cannabidiol-d-pure-oil-117-t40-c686-ndc-4671-1-0-ml-agl/,94.00,1.0 ml,Cannabidiol D Pure Oil 1:17 T40 C686 NDC: 4671 1.0 ml (AGL)
+http://www.thehealingcorner.com/product/cps-c200-4761-nano-tincture-10ml-cps/,25.00,10 ml,CPS C200 4761 Nano-Tincture 10ml (CPS)
+http://www.thehealingcorner.com/product/sativarin-ob-tablets-ndc-4058-10x20mgagl/,45.00,10 Tablets,Sativarin OB Tablets NDC: 4058 10x20mg(AGL)
+http://www.thehealingcorner.com/product/pagoti-t23c5-4954-pills-10-theraplant/,38.00,10 Capsules,Pagoti T23C5 4954 Pills- 10 (Theraplant)
+,,,
+http://www.thehealingcorner.com/product/cps-oil-t860-4181-syringe-cps/,105.00,1.0ml Syringe,CPS Oil T860 4181 Syringe (CPS)
+http://www.thehealingcorner.com/product/cps-oral-cbd-spray-c251-4742-5ml-cps/,42.00,5ml,CPS Oral CBD Spray C251 4742 5ml (CPS)
+http://www.thehealingcorner.com/product/pagoti-t42c10-4955-pills-10-theraplant/,48.00,10 Capsules,Pagoti T42C10 4955 Pills- 10 (Theraplant)
+http://www.thehealingcorner.com/product/cps-c40-tab-4719-5-tablets-cps/,30.00,5 Tablets,CPS C40 Tab 4719 5 Tablets (CPS)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/cps-oral-thca-spray-t261-4741-cps/,36.00,.5 ml,CPS Oral THCA Spray T261 4741 (CPS)
+http://www.thehealingcorner.com/product/cps-t100c100-4763-nano-tincture-10-ml-cps/,27.00,10 ml,CPS T100C100 4763 Nano-Tincture 10 ml (CPS)
+http://www.thehealingcorner.com/product/cps-c100-tab-4097-5-tabletscps/,65.00,5 Tablets,CPS C100 Tab 4097 5 Tablets(CPS)
+http://www.thehealingcorner.com/product/cannabidiol-d-11-capsules-ndc-5040-agl/,42.00,10 Capsules,Cannabidiol D 1:1 Capsules NDC: 5040 (AGL)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/cps-t200-4762-nano-tincture-10ml-cps/,30.00,10 ml,CPS T200 4762 Nano-Tincture 10ml (CPS)
+http://www.thehealingcorner.com/product/cps-thca200-tincture-4745-10ml-cps/,30.00,10 ml,CPS THCA200 Tincture 4745 10ml (CPS)
+http://www.thehealingcorner.com/product/cannabidiol-d-15-capsules-ndc-5041-agl/,42.00,10 Capsules,Cannabidiol D 1:5 Capsules NDC: 5041 (AGL)
+http://www.thehealingcorner.com/product/cps-t10-tab-4747-10-tabletscps/,24.00,10 Tablets,CPS T10 Tab 4747 10 Tablets(CPS)
+,,,
+http://www.thehealingcorner.com/product/albroven-t23-4771-flower-3-5g-cps/,38.00,3.5 Grams,Albroven T23 4771 Flower 3.5g (CPS)
+http://www.thehealingcorner.com/product/hybridol-i-oil-t292-ndc-5033-0-5ml-agl/,42.00,0.5 ml,Hybridol I Oil T292 NDC 5033 0.5ml (AGL)
+http://www.thehealingcorner.com/product/indicol-ob-water-soluble-100mg-ndc-4690/,22.00,11.81 ml,Indicol OB Water Soluble – 100mg NDC: 4690
+http://www.thehealingcorner.com/product/aniva-t30-4930-pre-roll-3pk-2-1g-theraplant/,20.00,Pre-rolls 3pk 2.1g,Aniva T30 4930 Pre-roll 3pk 2.1g (Theraplant)
+http://www.thehealingcorner.com/product/bablica-t22-4920-3-5g-theraplant/,28.00,3.5 Grams,Bablica T22 4920 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/indicol-p-pure-oil-t703-ndc-5032-1-0-mlagl/,94.00,1.0 ml,Indicol P Pure Oil T703 NDC: 5032 1.0 ml (AGL)
+http://www.thehealingcorner.com/product/indicore-ob-sublingual-spray-ndc-5027-agl/,45.00,2.71 ml/Vial,Indicore OB Sublingual Spray NDC: 5027 (AGL)
+http://www.thehealingcorner.com/product/bianca-c10-t7-cbd-5116-select-grind-7-0g-curaleaf/,48.00,7.0 Grams Select Grind,Bianca C10% T7% CBD 5116 Select Grind 7.0g (Curaleaf)
+http://www.thehealingcorner.com/product/black-t20-i-5140-select-grind-3-5gcuraleaf/,25.00,3.5 Grams Select Grind,Black T20% I 5140 Select Grind 3.5g(Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-n44-c22-t28-cbn-syringe-4884-1-0ml-curaleaf/,25.00,1.0 ml,Rainbow N44 C22 T28 CBN Syringe 4884 1.0ml (Curaleaf)
+http://www.thehealingcorner.com/product/sativarin-e-pure-oil-t652-ndc-5015-1-0-ml-agl/,92.00,1.0 ml,Sativarin E Pure Oil T652 NDC: 5015 1.0 ml (AGL)
+http://www.thehealingcorner.com/product/blue-t16-h-5157-2g-curaleaf/,19.00,2 Grams,Blue T16% H 5157 2g (Curaleaf)
+http://www.thehealingcorner.com/product/blue-t16-h-5158-3-5g-curaleaf/,33.00,3.5 Grams,Blue T16% H 5158 3.5g (Curaleaf)
+http://www.thehealingcorner.com/product/seraden-t53-4733-tincture-15ml-cps/,70.00,15 ml,SERADEN T53 4733 TINCTURE 15ML (CPS)
+http://www.thehealingcorner.com/product/sunrise-c141-t7-cbd-syringe-4522-1ml-curaleaf/,17.00,1.0 ml Syringe,Sunrise C141 T7 CBD Syringe 4522 1ml (Curaleaf)
+http://www.thehealingcorner.com/product/cbd251-t1c21-4459-pre-rolls-3pk-2-1g-theraplant/,20.00,Pre-rolls 3pk 2.1g,CBD25:1 T1C21 4459 Pre-rolls 3pk 2.1g (Theraplant)
+http://www.thehealingcorner.com/product/emerald-t21-s-4811-3-5g-curaleaf/,32.00,3.5 grams,Emerald T21% S 4811 3.5G (Curaleaf)
+http://www.thehealingcorner.com/product/zircon-c136-t70-cbd-curavex-4549-curaleaf/,25.00,20 ml,Zircon C136 T70 CBD Curavex 4549 (Curaleaf)
+http://www.thehealingcorner.com/product/cannabidiol-d-15-slips-t3-4-c17-8-ndc-5039-agl/,55.00,10 Slips,Cannabidiol D 1:5 Slips T3.4 C17.8 NDC: 5039 (AGL)
+http://www.thehealingcorner.com/product/emerald-t21-s-4829-cone-3-pack-curaleaf/,20.00,Cone 3 Pack 1.5g,Emerald T21% S 4829 Cone 3 Pack (Curaleaf)
+http://www.thehealingcorner.com/product/fioralex-flower-t28-4720-3-5g-cps/,40.00,3.5 Grams,Fioralex Flower T28 4720 3.5g (CPS)
+,,,
+http://www.thehealingcorner.com/product/sativum-ob-slips-10-x-20mg-ndc-4321-agl/,60.00,10 Pack,Sativum OB Slips 10 x 20mg NDC: 4321 (AGL)
+http://www.thehealingcorner.com/product/fioraleve-a-t19c55-4750-tincture-15ml-cps/,70.00,15 ml Tincture,Fioraleve A T19C55 4750 Tincture 15ml (CPS)
+http://www.thehealingcorner.com/product/garnet-t23-h-5125-3-5gcuraleaf/,33.00,3.5 Grams,Garnet T23% H 5125 3.5g(Curaleaf)
+http://www.thehealingcorner.com/product/garnet-t23-h-5126-3-5g-select-grind-curaleaf/,25.00,3.5 Grams of Select Grind,Garnet T23% H 5126 3.5g Select Grind (Curaleaf)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/fioraleve-t21c59-4170-tincture-15ml-cps/,70.00,15 ml Tincture,Fioraleve A T21C59 4170 Tincture 15ml (CPS)
+http://www.thehealingcorner.com/product/cps-oil-t250-c250-4098-syringe-cps/,58.00,1 ml Syringe,CPS Oil T250-C250 4098 Syringe 1ml (CPS)
+http://www.thehealingcorner.com/product/haracept-t24-4931-3-5g-theraplant/,26.00,3.5 Grams,Haracept T24 4931 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/hybridol-n-23-07-ndc-5096-3-5g-agl/,42.00,3.5 grams,Hybridol N 23.07 NDC: 5096 3.5G (AGL)
+,,,
+,,,
+,,,
+http://www.thehealingcorner.com/product/cps-oral-spray-t150-c150-4734-5ml-cps/,40.00,5 ml Spray,CPS Oral Spray T150-C150 4734 5ml (CPS)
+http://www.thehealingcorner.com/product/cps-oil-c250-4197-syringe-1ml-cps/,30.00,1 ml Oral Syringe,CPS Oil C250 4197 Syringe 1ml (CPS)
+http://www.thehealingcorner.com/product/hybridol-z-23-02-ndc-5081-3-5g-agl/,40.00,3.5 grams,Hybridol Z 23.02 NDC: 5081 3.5G (AGL)
+http://www.thehealingcorner.com/product/icariex-fllower-sc-t25-4729-3-5g-cps/,30.00,3.5 grams Second Cut,Icarilex Flower SC T25 4729 3.5G (CPS)
+,,,
+http://www.thehealingcorner.com/product/bablicapure-t268c1-4952-oil-cartridge-0-3ml-theraplant/,32.00,Oil Cartridge 0.3ml,BablicaPure T268C1 4952 Oil Cartridge 0.3ml (Theraplant)
+http://www.thehealingcorner.com/product/cps-oral-thc-spray-t255-4724-cps/,30.00,5 ml,CPS Oral THC Spray T255 4724 5ml (CPS)
+http://www.thehealingcorner.com/product/sativum-ob-sublingual-spray-ndc-5018-agl/,45.00,2.64 ml/ Vial,Sativum OB Sublingual Spray NDC: 5018 (AGL)
+http://www.thehealingcorner.com/product/icarilex-flower-t25-4714-3-5g-cps/,38.00,3.5 grams,Icarilex Flower T25 4714 3.5G (CPS)
+http://www.thehealingcorner.com/product/indicol-de-25-86-ndc-5084-3-5g-agl/,45.00,3.5 grams,Indicol DE 25.86 NDC: 5084 3.5G (AGL)
+http://www.thehealingcorner.com/product/bablicapure-t883c3-4953-oil-syringe-1-20ml-theraplant/,88.00,1.20ml Oil Syringe,BablicaPure T883C3 4953 Oil Syringe 1.20ml (Theraplant)
+http://www.thehealingcorner.com/product/bianca-oil-g-c94-t155-cbd-cartridge-4879-curaleaf/,35.00,1 Vape Cartridge,Bianca Oil G C94 T155 CBD Cartridge 4879 (Curaleaf)
+http://www.thehealingcorner.com/product/indicore-ob-slips-ndc-4611-10-units-agl/,60.00,10 Slips,Indicore OB Slips NDC: 4611 10 Units (AGL)
+http://www.thehealingcorner.com/product/indicol-k-pre-rolls-18-65-ndc-5047-4-units-1-80g-agl/,23.00,1.80 grams 4 Pre Rolls,Indicol K Pre Rolls 18.65 NDC: 5047 4 Units 1.80g (AGL)
+http://www.thehealingcorner.com/product/indicol-x-21-98-ndc-5022-3-5g-agl/,38.00,3.5 Grams,Indicol X 21.98 NDC: 5022 3.5g (AGL)
+http://www.thehealingcorner.com/product/blue-oil-p-t675-h-curavape-5111-vape-refill-3-0ml-curaleaf/,60.00,3.0 ml,Blue Oil P T675 H Curavape 5111 Vape Refill 3.0mL (Curaleaf)
+http://www.thehealingcorner.com/product/cannabidiol-d-15-pure-vpen436-ndc-5012/,65.00,1 Vape Cartridge,Cannabidiol D 1:5 PURE VPEN436 NDC: 5012
+http://www.thehealingcorner.com/product/jade-t20-h-4834-select-grind-3-5gcuraleaf/,25.00,3.5 grams Select Grind,Jade T20% H 4834 Select Grind 3.5g(Curaleaf)
+http://www.thehealingcorner.com/product/onyx-t20-i-4856-3-5g-curaleaf/,33.00,3.5 Grams,Onyx T20% I 4856 3.5g (Curaleaf)
+http://www.thehealingcorner.com/product/citron-oil-m-t570-s-curavape-5112-vape-refill-3-0-ml-curaleaf/,60.00,3.0 ml,Citron Oil M T570 S Curavape 5112 Vape Refill 3.0 ml (Curaleaf)
+http://www.thehealingcorner.com/product/fioraden-d-t250-4737-vape-cps/,40.00,Oil Cartridge,Fioraden D T250 4737 Vape (CPS)
+http://www.thehealingcorner.com/product/onyx-t20-i-4859-select-grind-7-0g-curaleaf/,48.00,7.0 Grams Select Grind,Onyx T20% I 4859 Select Grind 7.0g (Curaleaf)
+http://www.thehealingcorner.com/product/purple-t20-h-5119-3-5g-select-grind-curaleaf/,25.00,3.5 Grams of Select Grind,Purple T20% H 5119 3.5g Select Grind (Curaleaf)
+http://www.thehealingcorner.com/product/gwynivapure-t998c12-4925-oil-syringe-1-20ml-theraplant/,100.00,1.20ml Oil Syringe,GwynivaPure T998C12 4925 OIL SYRINGE 1.20ML (THERAPLANT)
+http://www.thehealingcorner.com/product/hybridol-f-pure-vpen-421-ndc-5082-agl/,65.00,Vape Cartridge,Hybridol F Pure VPen 421 NDC: 5082 (AGL)
+http://www.thehealingcorner.com/product/quintica-t19-4946-3-5g-theraplant/,26.00,3.5 Grams,Quintica T19 4946 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/recidra-flower-t23-4739-3-5g-agl/,35.00,3.5 Grams,Recidra Flower T23 4739 3.5g (CPS)
+http://www.thehealingcorner.com/product/hybridol-i-oil-t292-ndc-5033-0-5ml-agl/,42.00,0.5 ml,Hybridol I Oil T292 NDC 5033 0.5ml (AGL)
+http://www.thehealingcorner.com/product/hybridol-i-pure-vpen-411-ndc-5019-agl/,65.00,Vape Cartridge,Hybridol I Pure VPen 411 NDC: 5019 (AGL)
+http://www.thehealingcorner.com/product/sapphire-t23-h-5175-3-5g-curaleaf/,33.00,3.5 Grams,Sapphire T23% H 5175 3.5G (Curaleaf)
+http://www.thehealingcorner.com/product/sativarin-e-22-67-ndc-5051-3-5g-copy/,37.00,3.5 Grams,Sativarin E 22.67 NDC: 5051 3.5g (AGL)
+http://www.thehealingcorner.com/product/hybridol-i-vpen-330-ndc-5045-agl/,50.00,1 Vape Cartridge,Hybridol I VPen 330 NDC: 5045 (AGL)
+http://www.thehealingcorner.com/product/hybridol-ob-oil-t283-ndc-4365-0-5ml-agl/,37.00,0.5ml Vape Refill Syringe,Hybridol OB Oil T283 NDC: 4365 0.5ml (AGL)
+http://www.thehealingcorner.com/product/sativarin-t-19-82-ndc-4698-3-5g-agl/,35.00,3.5 grams,Sativarin T 19.82 NDC: 4698 3.5G (AGL)
+http://www.thehealingcorner.com/product/sativarin-t-19-82-ndc-5050-14-0g-agl/,114.00,14 grams,Sativarin T 19.82 NDC: 5050 14.0g (AGL)
+http://www.thehealingcorner.com/product/hybridol-u-pure-vpen-457-ndc-5053-agl/,65.00,Vape Cartridge,Hybridol U Pure VPen 457 NDC: 5053 (AGL)
+http://www.thehealingcorner.com/product/hybridol-y-pure-vpen-411-ndc-5067agl/,65.00,Vape Cartridge,Hybridol Y Pure VPen 411 NDC: 5067(AGL)
+http://www.thehealingcorner.com/product/skyleve-flower-t18-4740-3-5g-agl/,30.00,3.5 Grams,Skyleve Flower T18 4740 3.5g (CPS)
+http://www.thehealingcorner.com/product/squiblica-t17-4935-3-5g-theraplant/,25.00,3.5 Grams,Squiblica T17 4935 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/indicol-a-pure-vpen-433-ndc-5057-agl/,65.00,Vape Cartridge,Indicol A Pure VPen 433 NDC: 5057 (AGL)
+http://www.thehealingcorner.com/product/indicol-a-vpen-330-ndc-5074-agl/,50.00,1 Vape Cartridge,Indicol A VPen 330 NDC: 5074 (AGL)
+http://www.thehealingcorner.com/product/umbrica-t19-4922-3-5g-theraplant/,30.00,3.5 grams,Umbrica T19 4922 3.5G (Theraplant)
+http://www.thehealingcorner.com/product/waybrid-t25-4943-3-5g-theraplant/,32.00,3.5 Grams,Waybrid T25 4943 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/indicol-c-pure-vpen-466-ndc-5055-agl/,65.00,1 Vape Cartridge,Indicol C Pure VPen 466 NDC: 5055 (AGL)
+http://www.thehealingcorner.com/product/indicol-c-vpen-330-ndc-5073agl/,50.00,1 Vape Cartridge,Indicol C VPen 330 NDC: 5073(AGL)
+http://www.thehealingcorner.com/product/gwyniva-t25-4918-3-5g-theraplant/,32.00,3.5 Grams,Gwyniva T25 4918 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/gwyniva-t25-4919-pre-rolls-3pk-2-1g-theraplant/,20.00,Pre-rolls 3pk 2.1g,Gwyniva T25 4919 Pre-rolls 3pk 2.1g (Theraplant)
+http://www.thehealingcorner.com/product/indicol-p-pure-vpen-407-ndc-5031-agl/,65.00,1 Vape Cartridge,Indicol P Pure VPen 407 NDC: 5031 (AGL)
+http://www.thehealingcorner.com/product/indicol-p-vpen-330-ndc-5070-agl/,50.00,1 Vape Cartridge,Indicol P VPen 330 NDC: 5070 (AGL)
+http://www.thehealingcorner.com/product/tauradene-b-flower-sc-t24-4753-3-5g-cps/,30.00,3.5 Grams,Tauradene B Flower SC T24 4753 3.5g (CPS)
+http://www.thehealingcorner.com/product/tauradene-b-flower-t24-4752-3-5g-cps/,38.00,3.5 Grams,Tauradene B Flower T24 4752 3.5g (CPS)
+http://www.thehealingcorner.com/product/indicol-z-pure-vpen-413-ndc-5054-agl/,65.00,1 Vape Cartridge,Indicol Z Pure VPen 413 NDC: 5054 (AGL)
+http://www.thehealingcorner.com/product/indicol-z-vpen-330-ndc-5072-agl/,50.00,1 Vape Cartridge,Indicol Z VPen 330 NDC: 5072 (AGL)
+http://www.thehealingcorner.com/product/tomandi-t27-4948-3-5g-theraplant/,32.00,3.5 Grams,Tomandi T27 4948 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/suchinose-t24-4478-3-5g-theraplant/,30.00,3.5 Grams,Suchinose T24 4478 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/indigo-oil-g-t100-h-slim-4844-curaleaf/,18.00,1 Disposable Vape,Indigo Oil G T100 H Slim 4844 (Curaleaf)
+http://www.thehealingcorner.com/product/jenvapure-t1034c3-4499-oil-syringe-1-20ml-theraplant/,100.00,1.20ml Oil Syringe,JenvaPure T1034C3 4499 Oil Syringe 1.20ml (Theraplant)
+http://www.thehealingcorner.com/product/waybrid-t25-4944-pre-rolls-3pk-2-1g-theraplant/,20.00,3 Pack of Prerolled Cones- 2.1 Grams,Waybrid T25 4944 Pre-Rolls 3pk 2.1g (Theraplant)
+http://www.thehealingcorner.com/product/sativarin-i-pre-rolls-23-15-ndc-5077-4-units-agl/,23.00,Pre-Rolls- 4 Units- 1.8 grams,Sativarin I Pre-Rolls 23.15 NDC: 5077 4 Units (AGL)
+http://www.thehealingcorner.com/product/jenvapure-t314c1-4498-oil-cartridge-0-3ml-theraplant/,37.00,Oil Cartridge 0.3ml,JenvaPure T314C1 4498 Oil Cartridge 0.3ml (Theraplant)
+http://www.thehealingcorner.com/product/lexikan-t250-4773-vape-cps/,40.00,Oil Cartridge,Lexikan T250 4773 Vape (CPS)
+http://www.thehealingcorner.com/product/elioraca-t24-4905-3-5g-theraplant/,26.00,3.5 Grams,Elioraca T24 4905 3.5g (Theraplant)
+http://www.thehealingcorner.com/product/elioraca-t24-4906-pre-rolls-3pk-2-1gtheraplant/,20.00,Pre-Rolls 3pk 2.1g,Elioraca T24 4906 Pre-Rolls 3pk 2.1g(Theraplant)
+http://www.thehealingcorner.com/product/lexikan-t294-4754-dc-pure-vape-cps/,50.00,Oil Cartridge,Lexikan T294 4754 DC Pure Vape (CPS)
+http://www.thehealingcorner.com/product/lunadiene-t383-4722-dc-pure-vape-cps/,60.00,Oil Cartridge 0.5ml,LUNADIENE T383 4722 DC PURE VAPE (CPS)
+http://www.thehealingcorner.com/product/hybridol-a-23-78-ndc-4667-3-5gagl/,40.00,3.5 Grams,Hybridol A 23.78 NDC: 4667 3.5g(AGL)
+http://www.thehealingcorner.com/product/onyx-oil-a-t250-i-cartridge-5169-curaleaf/,35.00,1 Vape Cartridge,Onyx Oil A T250 I Cartridge 5169 (Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-oil-k-t100-h-slim-4557curaleaf/,18.00,1 Disposable Vape,Rainbow Oil K T100 H Slim 4557(Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-oil-k-t748-h-curavape-4293-4-0ml-curaleaf/,67.00,4.0 ml Refill,Rainbow Oil K T748 H Curavape 4293 4.0ml (Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-oil-m-t100-h-slim-4841-lemon-blue-raspberry-curaleaf/,18.00,1 Disposable Vape,Rainbow Oil M T100 H Slim 4841 Lemon Blue Raspberry (Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-oil-n-t100-h-slim-4842-fruit-punch-curaleaf/,18.00,1 Disposable Vape,Rainbow Oil N T100 H Slim 4842 Fruit Punch (Curaleaf)
+http://www.thehealingcorner.com/product/rainbow-oil-o-c57-t93-cbd-slim-4901-grape-curaleaf/,25.00,1 Disposable Vape,Rainbow Oil O C57 T93 CBD Slim 4901 Grape (Curaleaf)
+http://www.thehealingcorner.com/product/sativarin-e-vpen-300-ndc-4670-agl/,50.00,1 Vape Cartridge,Sativarin E VPEN 300 NDC: 4670 (AGL)
+http://www.thehealingcorner.com/product/sativarin-k-pure-vpen-414-ndc-5034-agl/,65.00,Vape Cartridge,Sativarin K Pure VPen 414 NDC: 5034 (AGL)
+http://www.thehealingcorner.com/product/scarlett-oil-h-t240-s-slim-4556-curaleaf/,35.00,Slim Disposable Vape,Scarlett Oil H T240 S Slim 4556 (Curaleaf)
+http://www.thehealingcorner.com/product/silver-t69-h-4872-0-50g-curaleaf/,34.00,0.50 Grams,Silver T69% H 4872 0.50g (Curaleaf)
+http://www.thehealingcorner.com/product/tribiken-t314-4157-dc-pure-vape-cps/,50.00,Oil Cartridge 0.5ml,Tribiken T314 4157 DC Pure Vape (CPS)
+http://www.thehealingcorner.com/product/caleten-t342-4190-dc-pure-vape-cps/,60.00,Oil Cartridge 0.5ml,Caleten T342 4190 DC PURE Vape (CPS)
+http://www.thehealingcorner.com/product/caleten-t250-4106-vape-cps/,40.00,Oil Cartridge 0.5ml,Caleten T250 4106 Vape (CPS)
+http://www.thehealingcorner.com/product/corlein-t250-4105-vape-cps/,40.00,Oil Cartridge,Corlein T250 4105 Vape (CPS)
+http://www.thehealingcorner.com/product/tribiken-t250-4767-vape-cps/,40.00,Oil Cartridge,Tribiken T250 4767 Vape (CPS)
+http://www.thehealingcorner.com/product/lunadiene-t100-4758-vape-pina-colada-cps/,18.00,,Lunadiene T100 4758 Vape Pina Colada (CPS)
+http://www.thehealingcorner.com/product/lunadiene-t100-4760-vape-grape-cps/,18.00,Oil Cartridge,Lunadiene T100 4760 Vape Grape (CPS)
+http://www.thehealingcorner.com/product/lunadiene-t100-4759-vape-wild-berry-cps/,18.00,Oil Cartridge,Lunadiene T100 4759 Vape Wild Berry (CPS)
+http://www.thehealingcorner.com/product/fioralex-t327-4756-dc-pure-vape-cps/,50.00,Oil Cartridge 0.5ml,Fioralex T327 4756 DC Pure Vape (CPS)
+http://www.thehealingcorner.com/product/icarilex-t330-4153-dc-pure-vape-cps/,50.00,Oil Cartridge 0.5ml,Icarilex T330 4153 DC Pure Vape (CPS)
+http://www.thehealingcorner.com/product/mortiven-t328-4736-dc-pure-vape-cps/,50.00,Oil Cartridge 0.5ml,Mortiven T328 4736 DC Pure Vape (CPS)
+http://www.thehealingcorner.com/product/fioraden-a-t352-4757-dc-pure-vape-cps/,60.00,Oil Cartridge,Fioraden A T352 4757 DC Pure Vape (CPS)
+link,price,size,title
+http://www.caringnaturedispensary.com/product/cps-t100c100-lotion-2oz-4769-cbdhybrid-0-38ge/,35.00,,"CPS T100C100 Lotion 2oz. – 4769 (CBD/Hybrid, 0.38GE)"
+http://www.caringnaturedispensary.com/product/cps-t200-nano-tincture-4762-cbd/,35.00,,"CPS T200 Nano Tincture – 4762 (CBD,"
+http://www.caringnaturedispensary.com/product/transdermal-cream-t230c33-50ml-4455-hybrid/,45.00,,"Transdermal Cream T230C33 50ml – 4455 (Hybrid, 1.15GE)"
+http://www.caringnaturedispensary.com/product/transdermal-cream-t250c11-50ml-4927-hybrid-1-11ge/,45.00,,"Transdermal Cream T250C11 50ml – 4927 (Hybrid, 1.11GE)"
 ,,,"
-			Flower AGL "
-,,,
+			Flower AGL "
 ,,,"
-			Flower CBD "
-,,,
+			Flower CBD "
 ,,,"
-			Flower CL "
-,,,
+			Flower CL "
 ,,,"
-			Flower CPS "
-,,,
+			Flower CPS "
 ,,,"
-			Flower Hybrid "
-,,,
+			Flower Hybrid "
 ,,,"
-			Flower Indica "
-,,,
+			Flower Indica "
 ,,,"
-			Flower Sativa "
-,,,
+			Flower Sativa "
 ,,,"
-			Flower TP "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Flower TP "
+http://www.caringnaturedispensary.com/product/albroven-t23-4771-sativa/,40.00,,Albroven T23 – 4771 (Sativa)
+http://www.caringnaturedispensary.com/product/aniva-t30-pre-rolls-4930-sativa-2-1gm/,20.00,,"Aniva T30 2.1g Pre-Rolls – 4930 (Sativa, 2.1GM)"
+http://www.caringnaturedispensary.com/product/bablica-t22-4920-indica-3-5gm/,30.00,,"Bablica T22 – 4920 (Indica, 3.5GM)"
+http://www.caringnaturedispensary.com/product/bianca-c10t7-cbd-7-0g-select-grind-5116-cbd-7-0gm/,50.00,,"Bianca C10%T7% CBD 7.0g Select Grind – 5116 (CBD, 7.0GM)"
+http://www.caringnaturedispensary.com/product/cbd-251-t1c19-4950-cbd/,30.00,,CBD 25:1 T1C19 – 4950 (CBD)
+http://www.caringnaturedispensary.com/product/cbd-251-t1c21-pre-rolls-3-pk-2-1gm-4459/,20.00,,CBD 25:1 T1C21 Pre-Rolls 3 Pk (2.1gm) – 4459
+http://www.caringnaturedispensary.com/product/elioraca-t24-4905-hybrid-3-5ge/,30.00,,"Elioraca T24 – 4905 (Hybrid, 3.5GE)"
+http://www.caringnaturedispensary.com/product/elioraca-t24-pre-rolls-4906-hybrid-2-1ge/,20.00,,"Elioraca T24 Pre-Rolls – 4906 (Hybrid, 2.1GE)"
+http://www.caringnaturedispensary.com/product/fioralex-t28-4720-hybrid/,40.00,,Fioralex T28 – 4720 (Hybrid)
+http://www.caringnaturedispensary.com/product/flavica-t25-4480-indica-3-5ge/,35.00,,"Flavica T25 – 4480 (Indica, 3.5GE)"
 ,,,"
-			Edibles AGL "
-,,,
+			Edibles AGL "
 ,,,"
-			Edibles CL "
-,,,
-,,,
-,,,
+			Edibles CL "
+http://www.caringnaturedispensary.com/product/garnet-t23-5125-hybrid-3-5gm/,35.00,,"Garnet T23% – 5125 (Hybrid, 3.5GM)"
+http://www.caringnaturedispensary.com/product/gwyniva-t25-4918-hybrid/,35.00,,Gwyniva T25 – 4918 (Hybrid)
 ,,,"
-			Edibles Hybrid "
-,,,
+			Edibles Hybrid "
 ,,,"
-			Edibles Indica "
-,,,
-,,,
-,,,
+			Edibles Indica "
 ,,,"
-			Edibles Sativa "
-,,,
-,,,
+			Edibles Sativa "
+http://www.caringnaturedispensary.com/product/brownie-bites-4586-sativa/,35.00,,"Brownie Bites – 4586 (Indica, 0.51GE)"
+http://www.caringnaturedispensary.com/product/cannabidiol-d-11-honey-5038-cbd-0-80ge/,55.00,,"Cannabidiol D 1:1 Honey – 5038 (CBD, 0.80GE)"
 ,,,"
-			Vape Cartridges AGL "
-,,,
+			Oral Meds AGL "
 ,,,"
-			Vape Cartridges CBD "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Oral Meds CBD "
 ,,,"
-			Vape Cartridges CL "
-,,,
+			Vape Cartridges AGL "
 ,,,"
-			Vape Cartridges CPS "
-,,,
+			Vape Cartridges CBD "
+http://www.caringnaturedispensary.com/product/chocolate-peanut-butter-bites-4849-hybrid-0-50ge/,35.00,,"Chocolate Peanut Butter Bites – 4849 (Hybrid, 0.50GE)"
+http://www.caringnaturedispensary.com/product/cinnamon-sugar-cookie-3-pk-3417-sativa/,35.00,,"Cinnamon Sugar Cookie 3 Pk – 4555 (Sativa, 0.46GE)"
 ,,,"
-			Vape Cartridges Hybrid "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Oral Meds CPS "
 ,,,"
-			Vape Cartridges Indica "
-,,,
+			Oral Meds Hybrid "
 ,,,"
-			Vape Cartridges Sativa "
-,,,
+			Oral Meds Indica "
 ,,,"
-			Vape Cartridges TP "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Vape Cartridges CL "
 ,,,"
-			Concentrates AGL "
-,,,
+			Vape Cartridges CPS "
 ,,,"
-			Concentrates CPS "
-,,,
+			Vape Cartridges Hybrid "
+http://www.caringnaturedispensary.com/product/dutch-chocolate-chip-cookies-4847-hybrid/,20.00,,"Dutch Chocolate Chip Cookies – 4847 (Hybrid, 0.25GE)"
+http://www.caringnaturedispensary.com/product/iced-sugar-cookies-4587-sativa/,35.00,,"Iced Sugar Cookies – 4587 (Hybrid, 0.48GE)"
 ,,,"
-			Oral Meds AGL "
-,,,
+			Oral Meds Sativa "
 ,,,"
-			Oral Meds CBD "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Oral Meds TP "
+http://www.caringnaturedispensary.com/product/360x-t631c57-1-0ml-oil-syringe-4911-cbd-2-94ge/,75.00,,"360X T631C57 1.0ml Oil Syringe – 4911 (CBD, 2.94GE)"
 ,,,"
-			Concentrates Hybrid "
-,,,
+			Vape Cartridges Indica "
 ,,,"
-			Concentrates Indica "
-,,,
+			Vape Cartridges Sativa "
 ,,,"
-			Concentrates Sativa "
-,,,
+			Vape Cartridges TP "
+http://www.caringnaturedispensary.com/product/indicore-ob-brownie-20mg-2263/,10.00,,Indicore OB Brownie  20mg- 4054 (Indica – 0.08GE)
+http://www.caringnaturedispensary.com/product/indicore-ob-chocolate-chip-cookie-v1-2265/,10.00,,Indicore OB Chocolate Chip Cookie  20mg – 4632 (Indica – 0.08GE)
+http://www.caringnaturedispensary.com/product/aniva-t2-5-capsules-4469-sativa/,10.00,,"Aniva T2.5 Capsules – 4469 (Sativa, 0.11GE)"
+http://www.caringnaturedispensary.com/product/aniva-t5-capsules-4470-sativa-0-21ge/,20.00,,"Aniva T5 Capsules – 4470 (Sativa, 0.21GE)"
+http://www.caringnaturedispensary.com/product/bablicapure-t268c1-vape-cartridge-4952-indica-1-11ge/,35.00,,"BablicaPure T268C1 Vape Cartridge – 4952 (Indica, 1.11GE)"
+http://www.caringnaturedispensary.com/product/bablicapure-t883c3-refill-syringe-1-2ml-4953-indica-3-67ge/,90.00,,"BablicaPure T883C3 Refill Syringe 1.2ml – 4953 (Indica, 3.67GE)"
+http://www.caringnaturedispensary.com/product/indicore-b-honey-200mg-1787/,55.00,,Indicore OB Honey 200mg  – 4626 (Indica – 0.8GE)
+http://www.caringnaturedispensary.com/product/indicore-ob-malted-chocolate-cookie-100mg-3144-indica/,35.00,,"Indicore OB Malted Chocolate Cookie 100mg – 4047 (Indica, 0.4GE)"
+http://www.caringnaturedispensary.com/product/cannabidiol-d-11-capsules-5040-cbd-0-8ge/,45.00,,"Cannabidiol D 1:1 Capsules – 5040 (CBD, 0.8GE)"
+http://www.caringnaturedispensary.com/product/cannabidiol-d-15-t3-4c17-8-slips-5039-cbd-0-88ge/,55.00,,"Cannabidiol D 1:5  T3.4C17.8 Slips – 5039 (CBD, 0.88GE)"
+http://www.caringnaturedispensary.com/product/blue-oil-p-t675-h-curavape-5111-hybrid-2-7ge/,65.00,,"Blue Oil P-T675 H Curavape – 5111 (Hybrid, 2.7GE)"
+http://www.caringnaturedispensary.com/product/cannabidiol-d-15-pure-vpen-436-5012-cbd-1-74ge/,65.00,,"Cannabidiol D 1:5 PURE VPEN 436 – 5012 (CBD, 1.74GE)"
+http://www.caringnaturedispensary.com/product/indicore-ob-smores-granola-bites-v1-3-x-20mg-3119/,25.00,,Indicore OB S’mores Granola Bites V1 3 x 20mg – 4045 (Indica –  0.24GE)
+http://www.caringnaturedispensary.com/product/sativum-honey-ob-v1-2218/,55.00,,Sativum Honey OB  200mg – 4007 (Sativa – 0.8GE)
+http://www.caringnaturedispensary.com/product/cannabidiol-d-15-capsules-cbd-0-8ge/,45.00,,"Cannabidiol D 1:5 Capsules – (CBD, 0.8GE)"
+http://www.caringnaturedispensary.com/product/cannabidiol-d-cbd-oral-solution-5036-cbd-1-20ge/,40.00,,"Cannabidiol D CBD Oral Solution 300mg – 5036 (CBD, 1.20GE)"
+http://www.caringnaturedispensary.com/product/citron-oil-m-t570-curavape-3ml-5112-sativa-2-28ge/,60.00,,"Citron Oil M T570 Curavape 3ml – 5112 (Sativa, 2.28GE)"
+http://www.caringnaturedispensary.com/product/citron-oil-n-t150-slim-4887-sativa-0-60ge/,28.00,,"Citron Oil N T150 Slim – 4887 (Sativa, 0.60GE)"
 ,,,"
-			Oral Meds CPS "
-,,,
+			Concentrates AGL "
 ,,,"
-			Oral Meds Hybrid "
-,,,
+			Concentrates CPS "
+http://www.caringnaturedispensary.com/product/cbd-11-t19c25-capsules-4497-cbd-1-91ge/,50.00,,"CBD 1:1 T19C25 Capsules – 4497 (CBD, 1.91GE)"
+http://www.caringnaturedispensary.com/product/cbd-271-t1c25-capsules-4489-cbd-1-12ge/,40.00,,"CBD 27:1 T1C25 Capsules – 4489 (CBD, 1.12GE)"
+http://www.caringnaturedispensary.com/product/corlein-t250-vape-4105-sativa/,40.00,,"Corlein T250 Vape – 4105 (Sativa, 0.99GE)"
+http://www.caringnaturedispensary.com/product/fioraden-t352-dc-pure-vape-4757-indica-1-41ge/,60.00,,"Fioraden A T352 DC Pure Vape – 4757 (Indica, 1.41GE)"
 ,,,"
-			Oral Meds Indica "
-,,,
-,,,
-,,,
-,,,
-,,,
+			Concentrates Hybrid "
 ,,,"
-			Concentrates TP "
-,,,
-,,,
+			Concentrates Indica "
 ,,,"
-			Oral Meds Sativa "
-,,,
+			Concentrates Sativa "
+http://www.caringnaturedispensary.com/product/cbd-271-t2c50-capsules-4490-cbd-2-19ge/,65.00,,"CBD 27:1 T2C50 Capsules – 4490 (CBD, 2.19GE)"
+http://www.caringnaturedispensary.com/product/cps-c10-tablets-4718-cbd-0-4ge/,18.00,,"CPS C10 Tablets – 4718 (CBD, 0.4GE)"
+http://www.caringnaturedispensary.com/product/fioraden-d-t308-dc-vape-cartridge-4725-indica-1-23ge/,55.00,,"Fioraden D T308 DC Vape Cartridge – 4725 (Indica, 1.23GE)"
+http://www.caringnaturedispensary.com/product/fioralex-t327-dc-pure-vape-4756-hybrid-1-31ge/,55.00,,"Fioralex T327 DC Pure Vape – 4756 (Hybrid, 1.31GE)"
 ,,,"
-			Oral Meds TP "
+			Concentrates TP "
+http://www.caringnaturedispensary.com/product/biscay-t84-hc-1-gram-4945-sativa-3-45ge/,65.00,,"Biscay T84 HC 1 gram – 4945 (Sativa, 3.45GE)"
+http://www.caringnaturedispensary.com/product/cps-c100-tablets-10-x-100-mg-1969/,70.00,,"CPS C100 Tablets 5 x 100 mg – 4097 (CBD, 1.09 GE)"
+http://www.caringnaturedispensary.com/product/gwynivapure-t998c12-1-2ml-refill-syringe-4925-hybrid-4-21ge/,100.00,,"GwynivaPure T998C12 1.2ml Refill Syringe – 4925 (Hybrid, 4.21GE)"
+http://www.caringnaturedispensary.com/product/hybridol-f-pure-vpen-421-5082-hybridol/,65.00,,"Hybridol F PURE VPEN 421- 5082 (Hybridol, 1.68GE)"
+http://www.caringnaturedispensary.com/product/fioralex-t81-cr-4746-hybrid/,40.00,,"Fioralex T81 CR – 4746 (Hybrid, 1.62GE)"
+http://www.caringnaturedispensary.com/product/hybridol-cr-85-76-5076-hybrid-1-71ge/,35.00,,"Hybridol A CR 85.76 – 5076 (Hybrid, 1.71GE)"
+http://www.caringnaturedispensary.com/product/hybridol-f-cr-86-17-4662-hybrid-1-72ge/,35.00,,"Hybridol F CR 86.17 – 4662 (Hybrid, 1.72GE)"
+http://www.caringnaturedispensary.com/product/hybridol-q-sh-83-86-4641-hybrid-1-67ge/,35.00,,"Hybridol Q SH 83.86 – 4641 (Hybrid, 1.67GE)"
+http://www.caringnaturedispensary.com/product/hybridol-t-sh-88-39-5061-hybrid-1-76ge/,35.00,,"Hybridol T SH 88.39 – 5061 (Hybrid, 1.76GE)"
+http://www.caringnaturedispensary.com/product/indicol-f-cr-74-81-4607-indica/,35.00,,"Indicol F CR 74.81 – 4607 (Indica,"
+http://www.caringnaturedispensary.com/product/indicol-o-bd-83-51-5090-indica-1-67ge/,35.00,,"Indicol O BD 83.51 – 5090 (Indica, 1.67GE)"
+http://www.caringnaturedispensary.com/product/indicol-p-cr-85-25-5059-indica-1-70ge/,35.00,,"Indicol P CR 85.25 – 5059 (Indica, 1.70GE)"
+http://www.caringnaturedispensary.com/product/indicol-w-rs-84-84-5086-indica-1-69ge/,45.00,,"Indicol W RS 84.84 – 5086 (Indica, 1.69GE)"
+http://www.caringnaturedispensary.com/product/obalex-t82-cr-12gm-4777-hybrid-1-64ge/,40.00,,"Obalex T82 CR 1/2gm – 4777 (Hybrid, 1.64GE)"
+http://www.caringnaturedispensary.com/product/sativarin-rs-82-66-4618-sativa-1-65ge/,45.00,,"Sativarin A RS 82.66 – 4618 (Sativa, 1.65GE)"
+link,price,size,title
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5524-cannabidiol-d-1-1-honey-5038-ht,$ 55,"
+	5.82oz	",Cannabidiol D 1:1 Honey 5038
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5563-cannabidiol-d-1-5-capsules-5041-ht,$ 43,"
+	10Pk	",Cannabidiol D 1:5 Capsules 5041
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5363-cannabidiol-d-1-5-pure-vpen-436-5012-ht,$ 68,"
+	0.58g	",Cannabidiol D 1:5 Pure VPen 436 5012
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5606-cannabidiol-d-1-5-slips-t3-4-c17-8-5039-ht,$ 56,"
+	10Pk	",Cannabidiol D 1:5 Slips T3.4 C17.8 5039
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5565-cannabidiol-d-cbd-oral-solution-5036-ht,$ 39,"
+	9.56ml	",Cannabidiol D CBD Oral Solution 5036
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5429-cannabidiol-d-pure-oil-1-17-t40-c686-4671-ht,$ 96,"
+	1.0ml	",Cannabidiol D Pure Oil 1:17 T40 C686 4671
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2331-cannabinoids-ht,$ 132,,Cannabinoids
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/5478-tribiken-t88-4751-cs-mf,$ 39,"
+	0.5g	",Tribiken T88 4751 CS
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2332-cannabis-and-cannabinoids-ht,$ 80,,Cannabis and Cannabinoids
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2314-cannabis-indica-ht,$ 22,,Cannabis Indica
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/5374-umbrica-t19-4922-mf,$ 28,"
+	3.5g	",Umbrica T19 4922
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/2919-under-thunder-mountain-mf,$ 20,,Under Thunder Mountain
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2315-cannabis-pharmacy-ht,$ 25,,Cannabis Pharmacy
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2316-cannabis-sativa-ht,$ 22,,Cannabis Sativa
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/5662-waybrid-t25-4943-mf,$ 29,"
+	3.5g	",Waybrid T25 4943
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/5787-waybrid-t25-4944-mf,$ 21,"
+	3Pk	",Waybrid T25 4944
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2317-cannabis-a-history-ht,$ 22,,Cannabis: A History
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5730-cbd25-1-t1c19-4950-ht,$ 29,"
+	3.5g	",CBD25:1 T1C19 4950
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/4855-xinva-t71c12-4472-mf,$ 38,"
+	0.5g	",Xinva T71C12 4472
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/item/5430-zybrid-t22-4916-mf,$ 28,"
+	3.5g	",Zybrid T22 4916
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5733-cbd25-1-t1c21-4459-ht,$ 21,"
+	3Pk	",CBD25:1 T1C21 4459
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4961-cbd27-1-t1c25-4489-ht,$ 40,"
+	10Pk	",CBD27:1 T1C25 4489
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4963-cbd27-1-t2c50-4490-ht,$ 52,"
+	10Pk	",CBD27:1 T2C50 4490
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4983-cbd2-1-t12c25-4486-ht,$ 42,"
+	10Pk	",CBD2:1 T12C25 4486
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4185-chocolate-chip-cookie-3881-ht,$ 26,"
+	1Pk	",Chocolate Chip Cookie 3881
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5679-chocolate-peanut-butter-bites-4849-ht,$ 34,"
+	5Pk	",Chocolate Peanut Butter Bites 4849
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4945-cinnamon-sugar-cookies-4555-ht,$ 32,"
+	3Pk	",Cinnamon Sugar Cookies 4555
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5504-citron-oil-m-t570-s-curavape-5112-ht,$ 61,"
+	3.0ml	",Citron Oil M T570 S Curavape 5112
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5399-citron-oil-n-t150-s-slim-4887-ht,$ 26,"
+	0.50ml	",Citron Oil N T150 S Slim 4887
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5755-citron-t26-s-5143-ht,$ 32,"
+	3.5g	",Citron T26% S 5143
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5691-citron-t75-s-5142-ht,$ 43,"
+	0.5g	",Citron T75% S 5142
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5644-cps-c10-effervescent-tablet-4765-ht,$ 15,"
+	10Pk	",CPS C10 Effervescent Tablet 4765
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5647-cps-c10-tab-4748-ht,$ 15,"
+	10Pk	",CPS C10 Tab 4748
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3888-cps-c100-tab-4097-ht,$ 64,"
+	5Pk	",CPS C100 Tab 4097
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5284-cps-c150-lotion-4735-ht,$ 40,"
+	2oz	",CPS C150 Lotion 4735
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5743-cps-c150-lotion-4769-ht,$ 28,"
+	2oz	",CPS C150 Lotion 4769
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5636-cps-c200-4761-nano-tincture-ht,$ 26,"
+	10ml	",CPS C200 4761 Nano-Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5741-cps-c200-4774-aloe-lotion-ht,$ 29,"
+	2oz	",CPS C200 4774 Aloe Lotion
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5205-cps-c40-tab-4719-ht,$ 29,"
+	5Pk	",CPS C40 Tab 4719
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4411-cps-c50-extended-release-tab-4151-ht,$ 40,"
+	5Pk	",CPS C50 Extended Release Tab 4151
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5193-cps-oil-c250-4197-syringe-ht,$ 31,"
+	1ml	",CPS Oil C250 4197 Syringe
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5251-cps-oil-t250-c250-4710-syringe-ht,$ 59,"
+	1ml	",CPS Oil T250-C250 4710 Syringe
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4779-cps-oil-t860-4181-syringe-ht,$ 105,"
+	1ml	",CPS Oil T860 4181 Syringe
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5545-cps-oral-cbd-spray-c251-4742-ht,$ 43,"
+	5ml	",CPS Oral CBD Spray C251 4742
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5260-cps-oral-spray-t150-c150-4734-ht,$ 42,"
+	5ml	",CPS Oral Spray T150-C150 4734
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5195-cps-oral-thc-spray-t255-4724-ht,$ 29,"
+	5ml	",CPS Oral THC Spray T255 4724
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5792-cps-t10-effervescent-tablet-4764-ht,$ 25,"
+	10Pk	",CPS T10 Effervescent Tablet 4764
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5457-cps-t10-tab-4747-ht,$ 25,"
+	10Pk	",CPS T10 Tab 4747
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5632-cps-t100c100-4763-nano-tincture-ht,$ 28,"
+	10ml	",CPS T100C100 4763 Nano-Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5702-cps-t100c100-4768-lotion-ht,$ 31,"
+	2oz	",CPS T100C100 4768 Lotion
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5027-cps-t150c150-4705-nano-tincture-ht,$ 39,"
+	15ml	",CPS T150C150 4705 Nano-Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5634-cps-t200-4762-nano-tincture-ht,$ 31,"
+	10ml	",CPS T200 4762 Nano-Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5247-cps-t300-4732-nano-tincture-ht,$ 43,"
+	15ml	",CPS T300 4732 Nano-Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5461-cps-t50-extended-release-tab-4749-ht,$ 54,"
+	5Pk	",CPS T50 Extended Release Tab 4749
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4378-cps-thc-lotion-t150-4138-ht,$ 32,"
+	2oz	",CPS THC Lotion T150 4138
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5326-cps-thca200-tincture-4745-ht,$ 31,"
+	10ml	",CPS THCA200 Tincture 4745
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4991-daxotone-t22-4452-ht,$ 21,"
+	3Pk	",Daxotone T22 4452
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5389-dutch-chocolate-chip-cookies-4847-ht,$ 19,"
+	3Pk	",Dutch Chocolate Chip Cookies 4847
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5201-elioraca-t24-4905-ht,$ 33,"
+	3.5g	",Elioraca T24 4905
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5288-elioraca-t24-4906-ht,$ 21,"
+	3Pk	",Elioraca T24 4906
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5539-fioraden-a-t352-4757-dc-pure-vape-ht,$ 61,"
+	0.5g	",Fioraden A T352 4757 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5298-fioraden-d-t250-4737-vape-ht,$ 39,"
+	0.5g	",Fioraden D T250 4737 Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5459-fioraleve-a-t19c55-4750-tincture-ht,$ 71,"
+	15ml	",Fioraleve A T19C55 4750 Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5153-fioralex-flower-t28-4720-ht,$ 40,"
+	3.5g	",Fioralex Flower T28 4720
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5547-fioralex-t327-4756-dc-pure-vape-ht,$ 52,"
+	0.5g	",Fioralex T327 4756 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5417-fioralex-t81-4746-cr-ht,$ 39,"
+	0.5g	",Fioralex T81 4746 CR
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5089-flavica-t25-4480-ht,$ 33,"
+	3.5g	",Flavica T25 4480
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5253-flavica-t30-4909-ht,$ 43,"
+	10Pk	",Flavica T30 4909
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5255-flavica-t50c1-4910-ht,$ 52,"
+	10Pk	",Flavica T50C1 4910
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2318-ganja-kitchen-revolution-ht,$ 24,,Ganja Kitchen Revolution
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5526-gwyniva-t25-4918-ht,$ 29,"
+	3.5g	",Gwyniva T25 4918
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5731-gwyniva-t25-4919-ht,$ 21,"
+	3Pk	",Gwyniva T25 4919
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5379-gwynivapure-t998c12-4925-ht,$ 103,"
+	1.20ml	",GwynivaPure T998C12 4925
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5757-haracept-t24-4931-ht,$ 27,"
+	3.5g	",Haracept T24 4931
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5425-hybridol-a-23-78-4667-ht,$ 39,"
+	3.5g	",Hybridol A 23.78 4667
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5776-hybridol-a-26-60-5023-ht,$ 39,"
+	3.5g	",Hybridol A 26.60 5023
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5710-hybridol-a-cr-85-76-5076-ht,$ 35,"
+	0.5g	",Hybridol A CR 85.76 5076
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5455-hybridol-i-pure-oil-t708-5020-ht,$ 96,"
+	1.0ml	",Hybridol I Pure Oil T708 5020
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5614-hybridol-i-pure-vpen-411-5019-ht,$ 68,"
+	0.58g	",Hybridol I Pure VPen 411 5019
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5555-hybridol-i-vpen-330-5045-ht,$ 52,"
+	0.58g	",Hybridol I VPen 330 5045
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4180-hybridol-j-sh-87-49-04087-ht,$ 35,"
+	0.5g	",Hybridol J SH 87.49 4087
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5820-hybridol-n-23-07-5096-ht,$ 40,"
+	3.5g	",Hybridol N 23.07 5096
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3556-hybridol-ob-lavender-lotion-3774-ht,$ 23,"
+	1.42oz	",Hybridol OB Lavender Lotion 3774
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5344-hybridol-ob-oil-t283-4365-ht,$ 38,"
+	0.5ml	",Hybridol OB Oil T283 4365
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4372-hybridol-ob-pure-oil-t720-4336-ht,$ 91,"
+	1.0ml	",Hybridol OB Pure Oil T720 4336
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4942-hybridol-ob-thc-oral-solution-4352-ht,$ 39,"
+	9.83ml	",Hybridol OB THC Oral Solution 4352
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5549-hybridol-p-22-02-5025-ht,$ 36,"
+	3.5g	",Hybridol P 22.02 5025
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5618-hybridol-t-rs-80-13-5030-ht,$ 45,"
+	0.5g	",Hybridol T RS 80.13 5030
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5620-hybridol-t-rs-80-13-5043-ht,$ 82,"
+	1.0g	",Hybridol T RS 80.13 5043
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5190-hybridol-w-rs-80-58-4659-ht,$ 45,"
+	0.5g	",Hybridol W RS 80.58 4659
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5725-hybridol-y-pure-vpen-411-5067-ht,$ 68,"
+	0.58g	",Hybridol Y Pure VPen 411 5067
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5135-icarilex-flower-t25-4714-ht,$ 38,"
+	3.5g	",Icarilex Flower T25 4714
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5170-iced-sugar-cookies-4587-ht,$ 31,"
+	3Pk	",Iced Sugar Cookies 4587
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5610-indicol-a-pure-vpen-433-5057-ht,$ 68,"
+	0.58g	",Indicol A Pure VPen 433 5057
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5715-indicol-a-vpen-330-5074-ht,$ 52,"
+	0.58g	",Indicol A VPen 330 5074
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5651-indicol-c-pure-vpen-466-5055-ht,$ 68,"
+	0.58g	",Indicol C Pure VPen 466 5055
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4894-indicol-f-sh-78-21-4606-ht,$ 43,"
+	0.50g	",Indicol F SH 78.21 4606
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5423-indicol-k-18-65-4699-ht,$ 33,"
+	3.5g	",Indicol K 18.65 4699
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5649-indicol-k-pre-rolls-18-65-5047-ht,$ 23,"
+	4Pk	",Indicol K Pre Rolls 18.65 5047
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5796-indicol-o-bd-83-51-5090-ht,$ 35,"
+	0.5g	",Indicol O BD 83.51 5090
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5163-indicol-ob-tablets-4652-ht,$ 43,"
+	10Pk	",Indicol OB Tablets 4652
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5622-indicol-p-cr-85-25-5059-ht,$ 35,"
+	0.5g	",Indicol P CR 85.25 5059
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5624-indicol-p-cr-85-25-5060-ht,$ 64,"
+	1.0g	",Indicol P CR 85.25 5060
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5557-indicol-p-pure-vpen-407-5031-ht,$ 68,"
+	0.58g	",Indicol P Pure VPen 407 5031
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5772-indicol-w-rs-84-84-5086-ht,$ 45,"
+	0.5g	",Indicol W RS 84.84 5086
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5600-indicol-x-21-98-5022-ht,$ 36,"
+	3.5g	",Indicol X 21.98 5022
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5050-indicore-ob-brownie-4634-ht,$ 9,"
+	1Pk	",Indicore OB Brownie 4634
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5052-indicore-ob-brownies-4635-ht,$ 26,"
+	3Pk	",Indicore OB Brownies 4635
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5106-indicore-ob-chocolate-chip-cookie-4632-ht,$ 9,"
+	1Pk	",Indicore OB Chocolate Chip Cookie 4632
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5112-indicore-ob-chocolate-chip-cookies-4633-ht,$ 26,"
+	3Pk	",Indicore OB Chocolate Chip Cookies 4633
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5522-indicore-ob-granola-5013-ht,$ 26,"
+	3.30oz	",Indicore OB Granola 5013
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5068-indicore-ob-honey-4626-ht,$ 55,"
+	5.78oz	",Indicore OB Honey 4626
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3965-indicore-ob-s-mores-granola-bites-4045-ht,$ 26,"
+	3Pk	",Indicore OB S'mores Granola Bites 4045
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4898-indicore-ob-slips-4611-ht,$ 56,"
+	10Pk	",Indicore OB Slips 4611
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4201-indicore-ob-white-chocolate-hazelnut-cookie-4053-ht,$ 18,"
+	1Pk	",Indicore OB White Chocolate Hazelnut Cookie 4053
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5221-indigo-oil-g-t100-h-slim-4844-ht,$ 17,"
+	0.43ml	",Indigo Oil G T100 H Slim 4844
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5268-jade-t20-h-4834-select-grind-ht,$ 26,"
+	3.5g SG	",Jade T20% H 4834 Select Grind
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4740-jehana-t30-4453-ht,$ 43,"
+	10Pk	",Jehana T30 4453
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5096-jenvapure-t1034c3-4499-ht,$ 105,"
+	1.2ml	",JenvaPure T1034C3 4499
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5739-lexikan-t250-4773-vape-ht,$ 39,"
+	0.5g	",Lexikan T250 4773 Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5541-lexikan-t294-4754-dc-pure-vape-ht,$ 52,"
+	0.5g	",Lexikan T294 4754 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5543-lexikan-t93-4755-cs-ht,$ 39,"
+	0.5g	",Lexikan T93 4755 CS
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5626-lunadiene-t100-4758-vape-pina-colada-ht,$ 17,"
+	0.5g	",Lunadiene T100 4758 Vape Pina Colada
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5630-lunadiene-t100-4759-vape-wild-berry-ht,$ 17,"
+	0.5g	",Lunadiene T100 4759 Vape Wild Berry
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5628-lunadiene-t100-4760-vape-grape-ht,$ 17,"
+	0.5g	",Lunadiene T100 4760 Vape Grape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5737-lunadiene-t383-4722-dc-pure-vape-ht,$ 61,"
+	0.5g	",Lunadiene T383 4722 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5243-lunadiene-t86-4715-cs-ht,$ 39,"
+	0.5g	",Lunadiene T86 4715 CS
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2319-marijuana-gateway-to-health-ht,$ 17,,Marijuana Gateway to Health
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2321-mary-jane-the-complete-marijuana-handbook-for-women-ht,$ 20,,Mary Jane: The Complete Marijuana Handbook for Women
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2322-medical-marijuana-101-ht,$ 16,,Medical Marijuana 101
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2320-medical-marijuana-handbook-ht,$ 27,,Medical Marijuana Handbook
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5415-micro-tablets-4888-ht,$ 19,"
+	30Pk	",Micro Tablets 4888
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5262-mortiven-t328-4736-dc-pure-vape-ht,$ 52,"
+	0.5g	",Mortiven T328 4736 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5770-obalex-t82-4777-cr-ht,$ 39,"
+	0.5g	",Obalex T82 4777 CR
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5577-ohbrid-t26-4915-ht,$ 21,"
+	3Pk	",Ohbrid T26 4915
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5693-onyx-oil-a-t250-i-cartridge-5169-ht,$ 35,"
+	0.58ml	",Onyx Oil A T250 I Cartridge 5169
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5342-onyx-t20-i-4859-select-grind-ht,$ 49,"
+	7.0g SG	",Onyx T20% I 4859 Select Grind
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5749-onyx-t25-i-5129-ht,$ 32,"
+	3.5g	",Onyx T25% I 5129
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5780-pagoti-t23c5-4954-ht,$ 39,"
+	10Pk	",Pagoti T23C5 4954
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5778-pagoti-t42c10-4955-ht,$ 48,"
+	10Pk	",Pagoti T42C10 4955
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3182-pagoti-t5-03615-ht,$ 20,"
+	10Pk	",Pagoti T5 3615
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5766-purple-t20-h-5119-select-grind-ht,$ 26,"
+	3.5g SG	",Purple T20% H 5119 Select Grind
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5588-purple-t20-h-5120-single-cone-ht,$ 11,"
+	1Pk	",Purple T20% H 5120 Single Cone
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5745-quintica-t19-4946-ht,$ 27,"
+	3.5g	",Quintica T19 4946
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5407-rainbow-n44-c22-t28-cbn-syringe-4884-ht,$ 26,"
+	1.0ml	",Rainbow N44 C22 T28 CBN Syringe 4884
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4852-rainbow-oil-k-t100-h-slim-4557-ht,$ 17,"
+	0.53ml	",Rainbow Oil K T100 H Slim 4557
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5182-rainbow-oil-m-t100-h-slim-4841-ht,$ 17,"
+	0.44ml	",Rainbow Oil M T100 H Slim 4841 Lemon Blue Raspberry
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5180-rainbow-oil-n-t100-h-slim-4842-ht,$ 17,"
+	0.45ml	",Rainbow Oil N T100 H Slim 4842 Fruit Punch
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5465-rainbow-oil-o-c57-t93-cbd-slim-4901-grape-ht,$ 26,"
+	0.50ml	",Rainbow Oil O C57 T93 CBD Slim 4901 Grape 
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5463-rainbow-oil-p-t150-h-slim-4902-watermelon-ht,$ 26,"
+	0.50ml	",Rainbow Oil P T150 H Slim 4902 Watermelon 
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5282-recidra-flower-t23-4739-ht,$ 38,"
+	3.5g	",Recidra Flower T23 4739
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4965-sativarin-a-rs-82-66-4618-ht,$ 45,"
+	0.5g	",Sativarin A RS 82.66 4618
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5602-sativarin-e-22-67-5051-ht,$ 35,"
+	3.5g	",Sativarin E 22.67 5051
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5104-sativarin-e-cr-82-30-4639-ht,$ 35,"
+	0.5g	",Sativarin E CR 82.30 4639
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5441-sativarin-e-pure-oil-t652-5015-ht,$ 96,"
+	1ml	",Sativarin E Pure Oil T652 5015
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5616-sativarin-e-pure-vpen-377-5014-ht,$ 68,"
+	0.58g	",Sativarin E Pure VPen 377 5014
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5359-sativarin-e-vpen-300-4670-ht,$ 52,"
+	0.58g	",Sativarin E VPen 300 4670
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5708-sativarin-i-pre-rolls-23-15-5077-ht,$ 23,"
+	4Pk	",Sativarin I Pre Rolls 23.15 5077
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5612-sativarin-k-pure-vpen-414-5034-ht,$ 68,"
+	0.58g	",Sativarin K Pure VPen 414 5034
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4534-sativarin-ob-capsules-4063-ht,$ 43,"
+	10Pk	",Sativarin OB Capsules 4063
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5727-sativarin-ob-capsules-4378-ht,$ 43,"
+	10Pk	",Sativarin OB Capsules 4378
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4182-sativarin-ob-tablets-04058-ht,$ 43,"
+	10Pk	",Sativarin OB Tablets 4058
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5553-sativarin-p-vpen-330-5017-ht,$ 52,"
+	0.58g	",Sativarin P VPen 330 5017
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4108-sativarin-t-sh-83-09-4077-ht,$ 25,"
+	0.50g	",Sativarin T SH 83.09 4077
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3719-sativum-ob-carmelita-3787-ht,$ 9,"
+	1Pk	",Sativum OB Carmelita 3787
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3775-sativum-ob-honey-04007-ht,$ 55,"
+	5.38oz	",Sativum OB Honey 4007
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3753-sativum-ob-peanut-butter-chip-cookie-4000-ht,$ 9,"
+	1Pk	",Sativum OB Peanut Butter Chip Cookie 4000
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/3678-sativum-ob-red-velvet-brownie-03788-ht,$ 9,"
+	1Pk	",Sativum OB Red Velvet Brownie 3788
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4430-sativum-ob-slips-04321-ht,$ 55,"
+	10Pk	",Sativum OB Slips 4321
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4402-scarlett-oil-f-t100-s-slim-4239-ht,$ 17,"
+	0.45ml	",Scarlett Oil F T100 S Slim 4239
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4848-scarlett-oil-h-t240-s-slim-4556-ht,$ 40,"
+	0.58ml	",Scarlett Oil H T240 S Slim 4556
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5501-sea-salt-wheat-crackers-4848-ht,$ 32,"
+	10Pk	",Sea Salt Wheat Crackers 4848
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5245-seraden-t53-4733-tincture-ht,$ 73,"
+	15ml	",Seraden T53 4733 Tincture
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5592-silver-t24-h-5121-ht,$ 19,"
+	2.0g	",Silver T24% H 5121
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5689-silver-t24-h-5124-select-grind-ht,$ 49,"
+	7.0 SG	",Silver T24% H 5124 Select Grind
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5385-silver-t69-h-4872-ht,$ 43,"
+	0.50g	",Silver T69% H 4872
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5280-skyleve-flower-t18-4740-ht,$ 29,"
+	3.5g	",Skyleve Flower T18 4740
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5786-suchinose-t23-4941-ht,$ 27,"
+	3.5g	",Suchinose T23 4941
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4955-suchinose-t24-4478-ht,$ 35,"
+	3.5g	",Suchinose T24 4478
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4761-sunrise-c141-t7-cbd-syringe-4522-ht,$ 17,"
+	1.0ml	",Sunrise C141 T7 CBD Syringe 4522
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5506-tauradene-b-flower-sc-t24-4753-ht,$ 31,"
+	3.5g SC	",Tauradene B Flower SC T24 4753
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5477-tauradene-b-flower-t24-4752-ht,$ 38,"
+	3.5g	",Tauradene B Flower T24 4752
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4116-tauradene-b-t88-4114-cs-ht,$ 40,"
+	0.5g	",Tauradene B T88 4114 CS
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2323-the-cannabis-gourmet-cookbook-ht,$ 27,,The Cannabis Gourmet Cookbook
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2324-the-cannabis-health-index-ht,$ 27,,The Cannabis Health Index
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2326-the-marijuana-chef-cookbook-ht,$ 16,,The Marijuana Chef Cookbook
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2327-the-pot-book-ht,$ 22,,The Pot Book
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2328-the-science-of-marijuana-ht,$ 40,,The Science of Marijuana
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5696-tomandi-t27-4948-ht,$ 30,"
+	3.5g	",Tomandi T27 4948
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5790-tomandi-t27-4949-ht,$ 21,"
+	3Pk	",Tomandi T27 4949
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5433-transdermal-cream-t250c11-4927-ht,$ 43,"
+	50ml	",Transdermal Cream T250C11 4927
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4492-tribiken-t314-4157-dc-pure-vape-ht,$ 50,"
+	0.5g	",Tribiken T314 4157 DC Pure Vape
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5479-tribiken-t88-4751-cs-ht,$ 39,"
+	0.5g	",Tribiken T88 4751 CS
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5475-umbrica-t19-4923-ht,$ 21,"
+	3Pk	",Umbrica T19 4923
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2329-under-thunder-mountain-ht,$ 20,,Under Thunder Mountain
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/2330-understanding-marijuana-ht,$ 35,,Understanding Marijuana
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5663-waybrid-t25-4943-ht,$ 29,"
+	3.5g	",Waybrid T25 4943
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/4872-zircon-c136-t70-cbd-curavex-4549-ht,$ 26,"
+	20.0ml	",Zircon C136 T70 CBD Curavex 4549
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5431-zybrid-t22-4916-ht,$ 28,"
+	3.5g	",Zybrid T22 4916
+https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/item/5497-zybrid-t22-4917-ht,$ 21,"
+	3Pk	",Zybrid T22 4917

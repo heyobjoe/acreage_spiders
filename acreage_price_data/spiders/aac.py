@@ -13,13 +13,15 @@ class AacSpider(CrawlSpider):
     allowed_domains = ['www.arrowalternativecare.com']
     start_urls = [
         'https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/hartford-location/',
-  #      'https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/',
+        'https://www.arrowalternativecare.com/medical-marijuana/product-catalog-and-online-ordering/milford-location/',
     ]
 
 
-    rules = (Rule(LinkExtractor(allow=(),
+    rules = (
+        Rule(LinkExtractor(allow=(),
                                 restrict_xpaths=('//*[@id="djcatalog"]/div[7]/ul/li[13]',)),
-                                callback="parse_page", follow=True),)
+                                callback="parse_page", follow=True),
+    )
 
 
     def parse_page(self, response):
