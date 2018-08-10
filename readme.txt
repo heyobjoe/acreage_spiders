@@ -3,7 +3,7 @@ Spider status:
 hc...fully functional
 cnd...fully functional
 aac...1 start url functioning
-sw...1 start url functioning, missing title
+sw...title lost loading csv to excel
 
 ccc...js required
 tvr...crawler required, js required?

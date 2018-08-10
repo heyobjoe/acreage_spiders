@@ -26,7 +26,7 @@ class SwSpider(CrawlSpider):
 
     rules = (
         Rule(LinkExtractor(allow=(),
-                           restrict_xpaths=('//*[@id="content"]/nav/a[4]',)),
+                           restrict_xpaths=('//*[@class="next page-numbers"]',)),
              callback="parse_page", follow=True),
     )
 
